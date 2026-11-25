@@ -1,0 +1,3967 @@
+{
+ "ip": [
+  {
+   "ioc": "45.88.186.207",
+   "family": "PureRAT",
+   "first_seen": "2026-09-18 19:46:23",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1924209",
+   "malicious": "45.88.186.207",
+   "benign": "45.88.186.206",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 8,
+     "suspicious": 2,
+     "undetected": 31,
+     "harmless": 50,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:29:53.818627+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:30:27.565703+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "104.239.66.26",
+   "family": "PureRAT",
+   "first_seen": "2026-09-08 19:43:15",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1905590",
+   "malicious": "104.239.66.26",
+   "benign": "104.239.66.25",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 6,
+     "suspicious": 0,
+     "undetected": 34,
+     "harmless": 51,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:30:44.001042+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:31:17.262509+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "5.104.86.108",
+   "family": "Cobalt Strike",
+   "first_seen": "2026-09-13 04:49:06",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1916120",
+   "malicious": "5.104.86.108",
+   "benign": "5.104.86.110",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 12,
+     "suspicious": 2,
+     "undetected": 30,
+     "harmless": 47,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:31:50.556834+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:32:40.002469+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "56.69.248.141",
+   "family": "PureRAT",
+   "first_seen": "2026-09-02 09:46:41",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1893151",
+   "malicious": "56.69.248.141",
+   "benign": "56.69.248.142",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 6,
+     "suspicious": 2,
+     "undetected": 32,
+     "harmless": 51,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:32:57.067910+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:33:13.574834+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "68.178.202.150",
+   "family": "Sliver",
+   "first_seen": "2026-09-12 09:47:25",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1915614",
+   "malicious": "68.178.202.150",
+   "benign": "68.178.202.151",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 15,
+     "suspicious": 1,
+     "undetected": 31,
+     "harmless": 44,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:33:30.011886+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:33:46.446241+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "217.60.195.50",
+   "family": "DCRat",
+   "first_seen": "2026-09-15 09:45:51",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1920303",
+   "malicious": "217.60.195.50",
+   "benign": "217.60.195.51",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 15,
+     "suspicious": 0,
+     "undetected": 31,
+     "harmless": 45,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:34:02.869922+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:34:19.290897+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "81.70.21.163",
+   "family": "Cobalt Strike",
+   "first_seen": "2026-09-18 08:03:05",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1923850",
+   "malicious": "81.70.21.163",
+   "benign": "81.70.21.164",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 6,
+     "suspicious": 1,
+     "undetected": 35,
+     "harmless": 49,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:34:35.882119+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:34:52.771920+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "106.54.201.103",
+   "family": "Cobalt Strike",
+   "first_seen": "2026-09-18 08:03:16",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1923854",
+   "malicious": "106.54.201.103",
+   "benign": "106.54.201.104",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 6,
+     "suspicious": 1,
+     "undetected": 33,
+     "harmless": 51,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:35:09.229339+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:35:25.644961+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "192.241.151.6",
+   "family": "Evilginx",
+   "first_seen": "2026-09-09 19:44:56",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1906413",
+   "malicious": "192.241.151.6",
+   "benign": "192.241.151.7",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 5,
+     "suspicious": 2,
+     "undetected": 32,
+     "harmless": 52,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:35:42.048137+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:35:58.476810+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "38.54.13.48",
+   "family": "Unknown malware",
+   "first_seen": "2026-09-13 19:45:52",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1916953",
+   "malicious": "38.54.13.48",
+   "benign": "38.54.13.47",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 8,
+     "suspicious": 0,
+     "undetected": 33,
+     "harmless": 50,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:36:14.909423+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:36:47.790112+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "207.56.7.53",
+   "family": "DCRat",
+   "first_seen": "2026-09-01 09:45:42",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1892423",
+   "malicious": "207.56.7.53",
+   "benign": "207.56.7.54",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 5,
+     "suspicious": 2,
+     "undetected": 34,
+     "harmless": 50,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:37:04.204985+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:37:20.821359+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "105.101.131.181",
+   "family": "AsyncRAT",
+   "first_seen": "2026-09-11 19:43:19",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1912763",
+   "malicious": "105.101.131.181",
+   "benign": "105.101.131.182",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 5,
+     "suspicious": 2,
+     "undetected": 34,
+     "harmless": 50,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:37:37.227614+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:37:53.633032+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "154.37.213.27",
+   "family": "Havoc",
+   "first_seen": "2026-08-28 09:43:52",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1889859",
+   "malicious": "154.37.213.27",
+   "benign": "154.37.213.28",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 12,
+     "suspicious": 1,
+     "undetected": 31,
+     "harmless": 47,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:38:10.430801+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:38:26.894634+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "154.94.237.203",
+   "family": "Cobalt Strike",
+   "first_seen": "2026-08-29 23:46:49",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1891220",
+   "malicious": "154.94.237.203",
+   "benign": "154.94.237.204",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 5,
+     "suspicious": 2,
+     "undetected": 32,
+     "harmless": 52,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:38:43.340550+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:38:59.755144+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "54.199.206.9",
+   "family": "AsyncRAT",
+   "first_seen": "2026-08-29 19:46:41",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1891173",
+   "malicious": "54.199.206.9",
+   "benign": "54.199.206.10",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 5,
+     "suspicious": 2,
+     "undetected": 32,
+     "harmless": 52,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:39:50.889459+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:40:07.319759+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "172.94.18.103",
+   "family": "AsyncRAT",
+   "first_seen": "2026-09-16 19:44:27",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1921304",
+   "malicious": "172.94.18.103",
+   "benign": "172.94.18.104",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 15,
+     "suspicious": 1,
+     "undetected": 29,
+     "harmless": 46,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:40:23.984073+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:40:40.379748+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "196.251.121.124",
+   "family": "PureRAT",
+   "first_seen": "2026-09-04 19:44:59",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1894471",
+   "malicious": "196.251.121.124",
+   "benign": "196.251.121.122",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 9,
+     "suspicious": 2,
+     "undetected": 31,
+     "harmless": 49,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:40:56.935745+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:42:03.454821+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "223.109.142.7",
+   "family": "Cobalt Strike",
+   "first_seen": "2026-09-04 17:47:55",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1894383",
+   "malicious": "223.109.142.7",
+   "benign": "223.109.142.8",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 14,
+     "suspicious": 2,
+     "undetected": 32,
+     "harmless": 43,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:42:19.967731+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:42:36.412771+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "156.238.120.12",
+   "family": "DCRat",
+   "first_seen": "2026-09-04 19:43:57",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1894462",
+   "malicious": "156.238.120.12",
+   "benign": "156.238.120.11",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 12,
+     "suspicious": 3,
+     "undetected": 30,
+     "harmless": 46,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:42:52.836816+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:43:25.747779+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "144.31.6.6",
+   "family": "PureRAT",
+   "first_seen": "2026-08-30 19:43:37",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1891533",
+   "malicious": "144.31.6.6",
+   "benign": "144.31.6.7",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 9,
+     "suspicious": 1,
+     "undetected": 32,
+     "harmless": 49,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:43:42.501982+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:43:58.922453+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "38.247.165.127",
+   "family": "AsyncRAT",
+   "first_seen": "2026-09-09 19:46:33",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1906418",
+   "malicious": "38.247.165.127",
+   "benign": "38.247.165.128",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 13,
+     "suspicious": 1,
+     "undetected": 31,
+     "harmless": 46,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:44:15.839907+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:44:32.331982+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "45.125.67.196",
+   "family": "Sliver",
+   "first_seen": "2026-08-29 09:46:20",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1890999",
+   "malicious": "45.125.67.196",
+   "benign": "45.125.67.197",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 15,
+     "suspicious": 0,
+     "undetected": 32,
+     "harmless": 44,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:44:48.976780+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:45:05.545184+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "167.179.67.162",
+   "family": "Cobalt Strike",
+   "first_seen": "2026-09-19 03:47:32",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1924323",
+   "malicious": "167.179.67.162",
+   "benign": "167.179.67.163",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 5,
+     "suspicious": 1,
+     "undetected": 34,
+     "harmless": 51,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:45:21.977628+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:45:38.394377+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "193.25.215.37",
+   "family": "PureRAT",
+   "first_seen": "2026-09-12 19:44:46",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1915955",
+   "malicious": "193.25.215.37",
+   "benign": "193.25.215.38",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 8,
+     "suspicious": 1,
+     "undetected": 32,
+     "harmless": 50,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:45:55.926196+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:46:12.819688+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "45.86.229.111",
+   "family": "Havoc",
+   "first_seen": "2026-09-21 09:46:32",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1926389",
+   "malicious": "45.86.229.111",
+   "benign": "45.86.229.112",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 14,
+     "suspicious": 1,
+     "undetected": 31,
+     "harmless": 45,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:46:29.282169+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:46:45.686294+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "130.94.42.202",
+   "family": "AdaptixC2",
+   "first_seen": "2026-09-14 09:43:34",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1917299",
+   "malicious": "130.94.42.202",
+   "benign": "130.94.42.203",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 7,
+     "suspicious": 1,
+     "undetected": 32,
+     "harmless": 51,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:47:02.108995+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:47:18.592237+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "82.165.202.90",
+   "family": "Unknown malware",
+   "first_seen": "2026-08-28 19:46:23",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1890811",
+   "malicious": "82.165.202.90",
+   "benign": "82.165.202.91",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 5,
+     "suspicious": 2,
+     "undetected": 32,
+     "harmless": 52,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:50:53.897315+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:51:10.414831+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "102.220.160.198",
+   "family": "AsyncRAT",
+   "first_seen": "2026-09-19 09:43:06",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1924407",
+   "malicious": "102.220.160.198",
+   "benign": "102.220.160.197",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 14,
+     "suspicious": 1,
+     "undetected": 33,
+     "harmless": 43,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:51:26.992741+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:51:59.924816+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "74.208.146.77",
+   "family": "AsyncRAT",
+   "first_seen": "2026-09-23 19:47:18",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1931054",
+   "malicious": "74.208.146.77",
+   "benign": "74.208.146.78",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 5,
+     "suspicious": 0,
+     "undetected": 35,
+     "harmless": 51,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:52:16.336512+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:52:32.782711+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "134.209.223.192",
+   "family": "Aisuru",
+   "first_seen": "2026-09-15 06:05:17",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1917975",
+   "malicious": "134.209.223.192",
+   "benign": "134.209.223.193",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 7,
+     "suspicious": 1,
+     "undetected": 32,
+     "harmless": 51,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:53:05.644463+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:53:22.084236+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "220.154.128.196",
+   "family": "Unknown malware",
+   "first_seen": "2026-09-08 09:46:03",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1905428",
+   "malicious": "220.154.128.196",
+   "benign": "220.154.128.197",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 14,
+     "suspicious": 1,
+     "undetected": 30,
+     "harmless": 46,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:53:38.490351+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:53:54.917210+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "121.41.70.79",
+   "family": "AdaptixC2",
+   "first_seen": "2026-09-22 09:43:27",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1927285",
+   "malicious": "121.41.70.79",
+   "benign": "121.41.70.80",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 7,
+     "suspicious": 0,
+     "undetected": 35,
+     "harmless": 49,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:54:11.322282+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:54:28.187250+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "122.51.212.92",
+   "family": "BianLian",
+   "first_seen": "2026-09-02 09:43:27",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1893140",
+   "malicious": "122.51.212.92",
+   "benign": "122.51.212.93",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 9,
+     "suspicious": 1,
+     "undetected": 32,
+     "harmless": 49,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:54:44.745546+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:55:01.178259+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "78.17.93.96",
+   "family": "AdaptixC2",
+   "first_seen": "2026-09-11 09:47:18",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1912187",
+   "malicious": "78.17.93.96",
+   "benign": "78.17.93.97",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 5,
+     "suspicious": 3,
+     "undetected": 33,
+     "harmless": 50,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:55:18.770051+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:55:35.207753+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "94.237.62.102",
+   "family": "AdaptixC2",
+   "first_seen": "2026-09-13 19:46:52",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1916958",
+   "malicious": "94.237.62.102",
+   "benign": "94.237.62.101",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 8,
+     "suspicious": 1,
+     "undetected": 32,
+     "harmless": 50,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:55:51.780262+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:56:24.661908+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "89.126.221.170",
+   "family": "AdaptixC2",
+   "first_seen": "2026-09-17 19:47:11",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1923461",
+   "malicious": "89.126.221.170",
+   "benign": "89.126.221.171",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 8,
+     "suspicious": 1,
+     "undetected": 32,
+     "harmless": 50,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:56:41.145791+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:56:58.064462+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "46.183.223.30",
+   "family": "Remcos",
+   "first_seen": "2026-09-22 08:30:54",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1927254",
+   "malicious": "46.183.223.30",
+   "benign": "46.183.223.31",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 5,
+     "suspicious": 2,
+     "undetected": 32,
+     "harmless": 52,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:57:14.578228+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 38,
+     "harmless": 53,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:57:30.990248+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "180.93.115.26",
+   "family": "Mirai",
+   "first_seen": "2026-09-06 19:44:18",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1903037",
+   "malicious": "180.93.115.26",
+   "benign": "180.93.115.27",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 13,
+     "suspicious": 2,
+     "undetected": 31,
+     "harmless": 45,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:58:03.962633+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:58:20.367948+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "37.244.232.113",
+   "family": "DanaBot",
+   "first_seen": "2026-09-12 09:46:41",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1915610",
+   "malicious": "37.244.232.113",
+   "benign": "37.244.232.114",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 5,
+     "suspicious": 2,
+     "undetected": 33,
+     "harmless": 51,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:58:36.774941+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:58:53.347836+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "155.103.69.85",
+   "family": "Remcos",
+   "first_seen": "2026-09-24 16:15:43",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1932292",
+   "malicious": "155.103.69.85",
+   "benign": "155.103.69.84",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 15,
+     "suspicious": 0,
+     "undetected": 31,
+     "harmless": 45,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:59:09.752998+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:59:42.629071+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "202.61.160.183",
+   "family": "ValleyRAT",
+   "first_seen": "2026-09-25 03:00:26",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1932607",
+   "malicious": "202.61.160.183",
+   "benign": "202.61.160.180",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 15,
+     "suspicious": 1,
+     "undetected": 31,
+     "harmless": 44,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:59:59.236278+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 37,
+     "harmless": 54,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:01:38.592658+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "64.84.56.233",
+   "family": "DanaBot",
+   "first_seen": "2026-09-19 09:46:50",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1924422",
+   "malicious": "64.84.56.233",
+   "benign": "64.84.56.234",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 5,
+     "suspicious": 2,
+     "undetected": 33,
+     "harmless": 51,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:03:02.230449+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:03:19.319712+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "64.227.59.213",
+   "family": "Unknown malware",
+   "first_seen": "2026-09-01 19:46:20",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1892656",
+   "malicious": "64.227.59.213",
+   "benign": "64.227.59.214",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 5,
+     "suspicious": 2,
+     "undetected": 33,
+     "harmless": 51,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:03:35.732985+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:03:52.149946+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "143.246.217.103",
+   "family": "AdaptixC2",
+   "first_seen": "2026-09-10 09:43:46",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1907049",
+   "malicious": "143.246.217.103",
+   "benign": "143.246.217.102",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 7,
+     "suspicious": 2,
+     "undetected": 32,
+     "harmless": 50,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:04:08.590287+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:04:41.381909+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "194.58.47.81",
+   "family": "DCRat",
+   "first_seen": "2026-09-01 09:45:07",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1892421",
+   "malicious": "194.58.47.81",
+   "benign": "194.58.47.82",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 9,
+     "suspicious": 2,
+     "undetected": 33,
+     "harmless": 47,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:07:59.423073+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:08:16.348163+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "206.123.132.166",
+   "family": "DCRat",
+   "first_seen": "2026-09-10 09:45:29",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1907060",
+   "malicious": "206.123.132.166",
+   "benign": "206.123.132.168",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 5,
+     "suspicious": 1,
+     "undetected": 34,
+     "harmless": 51,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:08:49.681000+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:09:40.658893+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "16.5.7.159",
+   "family": "Havoc",
+   "first_seen": "2026-09-11 09:44:06",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1912171",
+   "malicious": "16.5.7.159",
+   "benign": "16.5.7.160",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 7,
+     "suspicious": 2,
+     "undetected": 34,
+     "harmless": 48,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:09:57.093790+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:10:13.524963+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "194.26.192.168",
+   "family": "Quasar RAT",
+   "first_seen": "2026-09-26 01:50:43",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934453",
+   "malicious": "194.26.192.168",
+   "benign": "194.26.192.170",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 11,
+     "suspicious": 3,
+     "undetected": 28,
+     "harmless": 49,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:10:29.962281+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:11:19.257245+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "94.250.167.221",
+   "family": "DanaBot",
+   "first_seen": "2026-08-29 09:47:13",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1891005",
+   "malicious": "94.250.167.221",
+   "benign": "94.250.167.222",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 7,
+     "suspicious": 1,
+     "undetected": 34,
+     "harmless": 49,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:11:52.160875+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:12:08.614452+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  },
+  {
+   "ioc": "217.217.97.164",
+   "family": "Havoc",
+   "first_seen": "2026-08-27 09:46:13",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1889177",
+   "malicious": "217.217.97.164",
+   "benign": "217.217.97.165",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 11,
+     "suspicious": 1,
+     "undetected": 32,
+     "harmless": 47,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:12:25.033225+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:12:41.443407+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": null
+  }
+ ],
+ "domain": [
+  {
+   "ioc": "voyag413.xyz",
+   "family": "IClickFix",
+   "first_seen": "2026-09-14 16:53:24",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1917897",
+   "malicious": "voyag413.xyz",
+   "benign": "voyag413.com",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 13,
+     "suspicious": 2,
+     "undetected": 31,
+     "harmless": 45,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:17:33.020379+00:00"
+   },
+   "vt_benign": {
+    "stats": null,
+    "queried_at": "2026-09-26T10:17:50.171142+00:00"
+   },
+   "benign_known_to_vt": false,
+   "benign_resolves": false
+  },
+  {
+   "ioc": "dollllar881122.icu",
+   "family": "Unknown malware",
+   "first_seen": "2026-08-05 06:37:52",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1868560",
+   "malicious": "dollllar881122.icu",
+   "benign": "dollllar881122.com",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 14,
+     "suspicious": 2,
+     "undetected": 30,
+     "harmless": 45,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:18:39.502324+00:00"
+   },
+   "vt_benign": {
+    "stats": null,
+    "queried_at": "2026-09-26T10:18:55.910782+00:00"
+   },
+   "benign_known_to_vt": false,
+   "benign_resolves": false
+  },
+  {
+   "ioc": "costum342183.life",
+   "family": "IClickFix",
+   "first_seen": "2026-08-18 08:12:40",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1880179",
+   "malicious": "costum342183.life",
+   "benign": "costum342183.com",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 8,
+     "suspicious": 1,
+     "undetected": 35,
+     "harmless": 47,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:19:12.362597+00:00"
+   },
+   "vt_benign": {
+    "stats": null,
+    "queried_at": "2026-09-26T10:19:28.795771+00:00"
+   },
+   "benign_known_to_vt": false,
+   "benign_resolves": false
+  },
+  {
+   "ioc": "analysis-id-lfg.info",
+   "family": "IClickFix",
+   "first_seen": "2026-08-16 19:28:54",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1877316",
+   "malicious": "analysis-id-lfg.info",
+   "benign": "analysis-id-lfg.com",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 20,
+     "suspicious": 1,
+     "undetected": 30,
+     "harmless": 40,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:20:19.277871+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:20:35.793624+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": false
+  },
+  {
+   "ioc": "fingerprint-veri.info",
+   "family": "IClickFix",
+   "first_seen": "2026-09-03 10:47:29",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1893790",
+   "malicious": "fingerprint-veri.info",
+   "benign": "fingerprint-veri.com",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 24,
+     "suspicious": 1,
+     "undetected": 28,
+     "harmless": 38,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:21:42.322220+00:00"
+   },
+   "vt_benign": {
+    "stats": null,
+    "queried_at": "2026-09-26T10:21:59.022871+00:00"
+   },
+   "benign_known_to_vt": false,
+   "benign_resolves": false
+  },
+  {
+   "ioc": "fingerprint-verification.info",
+   "family": "IClickFix",
+   "first_seen": "2026-08-24 08:11:16",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1885982",
+   "malicious": "fingerprint-verification.info",
+   "benign": "fingerprint-verification.com",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 21,
+     "suspicious": 2,
+     "undetected": 29,
+     "harmless": 39,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:22:15.408257+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:22:31.839880+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": false
+  },
+  {
+   "ioc": "workworm1412.buzz",
+   "family": "IClickFix",
+   "first_seen": "2026-09-13 12:09:12",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1916414",
+   "malicious": "workworm1412.buzz",
+   "benign": "workworm1412.com",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 13,
+     "suspicious": 2,
+     "undetected": 32,
+     "harmless": 44,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:22:48.352130+00:00"
+   },
+   "vt_benign": {
+    "stats": null,
+    "queried_at": "2026-09-26T10:25:52.627389+00:00"
+   },
+   "benign_known_to_vt": false,
+   "benign_resolves": false
+  },
+  {
+   "ioc": "sdn-cloudflare-js-css.click",
+   "family": "Unknown malware",
+   "first_seen": "2026-02-15 20:41:28",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1748912",
+   "malicious": "sdn-cloudflare-js-css.click",
+   "benign": "sdn-cloudflare-js-css.com",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 13,
+     "suspicious": 1,
+     "undetected": 31,
+     "harmless": 46,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:26:09.062189+00:00"
+   },
+   "vt_benign": {
+    "stats": null,
+    "queried_at": "2026-09-26T10:26:26.016287+00:00"
+   },
+   "benign_known_to_vt": false,
+   "benign_resolves": false
+  },
+  {
+   "ioc": "pixelinsights.xyz",
+   "family": "Unknown malware",
+   "first_seen": "2026-02-24 15:14:12",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1754168",
+   "malicious": "pixelinsights.xyz",
+   "benign": "pixelinsights.com",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 13,
+     "suspicious": 2,
+     "undetected": 32,
+     "harmless": 44,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:26:42.818838+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 43,
+     "harmless": 48,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:26:59.208881+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": false
+  },
+  {
+   "ioc": "trilliot6776.icu",
+   "family": "IClickFix",
+   "first_seen": "2026-09-19 09:06:06",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1924394",
+   "malicious": "trilliot6776.icu",
+   "benign": "trilliot6776.com",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 6,
+     "suspicious": 4,
+     "undetected": 33,
+     "harmless": 48,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:27:15.658424+00:00"
+   },
+   "vt_benign": {
+    "stats": null,
+    "queried_at": "2026-09-26T10:27:32.062513+00:00"
+   },
+   "benign_known_to_vt": false,
+   "benign_resolves": false
+  },
+  {
+   "ioc": "nick-metry.icu",
+   "family": "Unknown malware",
+   "first_seen": "2026-08-06 05:45:55",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1869251",
+   "malicious": "nick-metry.icu",
+   "benign": "nick-metry.com",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 16,
+     "suspicious": 2,
+     "undetected": 31,
+     "harmless": 42,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:28:05.930152+00:00"
+   },
+   "vt_benign": {
+    "stats": null,
+    "queried_at": "2026-09-26T10:28:22.500526+00:00"
+   },
+   "benign_known_to_vt": false,
+   "benign_resolves": false
+  },
+  {
+   "ioc": "trombler312.life",
+   "family": "IClickFix",
+   "first_seen": "2026-09-16 09:55:55",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1920989",
+   "malicious": "trombler312.life",
+   "benign": "trombler312.com",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 9,
+     "suspicious": 1,
+     "undetected": 32,
+     "harmless": 49,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:29:29.599807+00:00"
+   },
+   "vt_benign": {
+    "stats": null,
+    "queried_at": "2026-09-26T10:29:46.038314+00:00"
+   },
+   "benign_known_to_vt": false,
+   "benign_resolves": false
+  },
+  {
+   "ioc": "sdn-cloudflare-js-css.cfd",
+   "family": "Unknown Stealer",
+   "first_seen": "2026-09-25 18:26:37",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1934263",
+   "malicious": "sdn-cloudflare-js-css.cfd",
+   "benign": "sdn-cloudflare-js-css.com",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 15,
+     "suspicious": 4,
+     "undetected": 29,
+     "harmless": 43,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:30:19.023954+00:00"
+   },
+   "vt_benign": {
+    "stats": null,
+    "queried_at": "2026-09-26T10:26:26.016287+00:00"
+   },
+   "benign_known_to_vt": false,
+   "benign_resolves": false
+  },
+  {
+   "ioc": "vaer-cdn-3.sbs",
+   "family": "Unknown malware",
+   "first_seen": "2026-02-22 15:48:02",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1752411",
+   "malicious": "vaer-cdn-3.sbs",
+   "benign": "vaer-cdn-3.com",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 14,
+     "suspicious": 2,
+     "undetected": 31,
+     "harmless": 44,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:30:35.461975+00:00"
+   },
+   "vt_benign": {
+    "stats": null,
+    "queried_at": "2026-09-26T10:30:52.216094+00:00"
+   },
+   "benign_known_to_vt": false,
+   "benign_resolves": false
+  },
+  {
+   "ioc": "online-r.com",
+   "family": "Cobalt Strike",
+   "first_seen": "2026-08-26 11:48:12",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1888153",
+   "malicious": "online-r.com",
+   "benign": "online-r.net",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 9,
+     "suspicious": 4,
+     "undetected": 32,
+     "harmless": 46,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:31:08.624045+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:31:25.424612+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": true
+  },
+  {
+   "ioc": "authorization-id-code.info",
+   "family": "Unknown malware",
+   "first_seen": "2026-07-04 15:09:30",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1844658",
+   "malicious": "authorization-id-code.info",
+   "benign": "authorization-id-code.com",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 22,
+     "suspicious": 2,
+     "undetected": 29,
+     "harmless": 38,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:31:41.877219+00:00"
+   },
+   "vt_benign": {
+    "stats": null,
+    "queried_at": "2026-09-26T10:31:58.330997+00:00"
+   },
+   "benign_known_to_vt": false,
+   "benign_resolves": false
+  },
+  {
+   "ioc": "webpulsedata.icu",
+   "family": "Unknown malware",
+   "first_seen": "2026-02-24 11:42:30",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1754144",
+   "malicious": "webpulsedata.icu",
+   "benign": "webpulsedata.com",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 14,
+     "suspicious": 1,
+     "undetected": 33,
+     "harmless": 43,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:32:32.088672+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:32:48.539174+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": false
+  },
+  {
+   "ioc": "pagestatix.icu",
+   "family": "Unknown malware",
+   "first_seen": "2026-02-24 11:39:28",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1754138",
+   "malicious": "pagestatix.icu",
+   "benign": "pagestatix.com",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 15,
+     "suspicious": 1,
+     "undetected": 33,
+     "harmless": 42,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:33:04.989503+00:00"
+   },
+   "vt_benign": {
+    "stats": null,
+    "queried_at": "2026-09-26T10:33:21.425976+00:00"
+   },
+   "benign_known_to_vt": false,
+   "benign_resolves": false
+  },
+  {
+   "ioc": "id-verif-code.info",
+   "family": "Unknown malware",
+   "first_seen": "2026-08-07 09:56:53",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1869784",
+   "malicious": "id-verif-code.info",
+   "benign": "id-verif-code.com",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 22,
+     "suspicious": 0,
+     "undetected": 29,
+     "harmless": 40,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:33:37.872540+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 38,
+     "harmless": 53,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:33:54.670695+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": false
+  },
+  {
+   "ioc": "nstv-css-styles-19.sbs",
+   "family": "Unknown malware",
+   "first_seen": "2026-02-22 15:48:00",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1752415",
+   "malicious": "nstv-css-styles-19.sbs",
+   "benign": "nstv-css-styles-19.com",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 14,
+     "suspicious": 0,
+     "undetected": 32,
+     "harmless": 45,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:34:12.324119+00:00"
+   },
+   "vt_benign": {
+    "stats": null,
+    "queried_at": "2026-09-26T10:34:28.741391+00:00"
+   },
+   "benign_known_to_vt": false,
+   "benign_resolves": false
+  },
+  {
+   "ioc": "cdn-clodflare-fotns.cfd",
+   "family": "Unknown malware",
+   "first_seen": "2026-02-16 07:59:20",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1749010",
+   "malicious": "cdn-clodflare-fotns.cfd",
+   "benign": "cdn-clodflare-fotns.com",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 12,
+     "suspicious": 2,
+     "undetected": 29,
+     "harmless": 48,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:34:45.591860+00:00"
+   },
+   "vt_benign": {
+    "stats": null,
+    "queried_at": "2026-09-26T10:35:02.008513+00:00"
+   },
+   "benign_known_to_vt": false,
+   "benign_resolves": false
+  },
+  {
+   "ioc": "meritphilips.fans",
+   "family": "Cobalt Strike",
+   "first_seen": "2026-09-22 13:47:44",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1927371",
+   "malicious": "meritphilips.fans",
+   "benign": "meritphilips.com",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 6,
+     "suspicious": 2,
+     "undetected": 34,
+     "harmless": 49,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:35:34.910498+00:00"
+   },
+   "vt_benign": {
+    "stats": null,
+    "queried_at": "2026-09-26T10:35:51.371163+00:00"
+   },
+   "benign_known_to_vt": false,
+   "benign_resolves": false
+  },
+  {
+   "ioc": "cdn-js-conhost.click",
+   "family": "Unknown malware",
+   "first_seen": "2026-02-15 20:43:38",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1748916",
+   "malicious": "cdn-js-conhost.click",
+   "benign": "cdn-js-conhost.com",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 13,
+     "suspicious": 2,
+     "undetected": 33,
+     "harmless": 43,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:36:24.309029+00:00"
+   },
+   "vt_benign": {
+    "stats": null,
+    "queried_at": "2026-09-26T10:36:40.755517+00:00"
+   },
+   "benign_known_to_vt": false,
+   "benign_resolves": false
+  },
+  {
+   "ioc": "dockmemoir.co",
+   "family": "SmartApeSG",
+   "first_seen": "2026-09-25 14:01:36",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1932835",
+   "malicious": "dockmemoir.co",
+   "benign": "dockmemoir.com",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 11,
+     "suspicious": 1,
+     "undetected": 32,
+     "harmless": 47,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:37:13.619024+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:37:30.032639+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": false
+  },
+  {
+   "ioc": "gpixx.xyz",
+   "family": "IClickFix",
+   "first_seen": "2026-09-14 16:53:23",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1917887",
+   "malicious": "gpixx.xyz",
+   "benign": "gpixx.com",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 13,
+     "suspicious": 1,
+     "undetected": 31,
+     "harmless": 46,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:37:46.478682+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:38:02.922619+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": true
+  },
+  {
+   "ioc": "googlanalitlcs.icu",
+   "family": "Unknown malware",
+   "first_seen": "2026-02-24 11:44:50",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1754150",
+   "malicious": "googlanalitlcs.icu",
+   "benign": "googlanalitlcs.com",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 18,
+     "suspicious": 0,
+     "undetected": 30,
+     "harmless": 43,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:38:52.344886+00:00"
+   },
+   "vt_benign": {
+    "stats": null,
+    "queried_at": "2026-09-26T10:39:08.847569+00:00"
+   },
+   "benign_known_to_vt": false,
+   "benign_resolves": false
+  },
+  {
+   "ioc": "kittiesmc.com",
+   "family": "Unknown Stealer",
+   "first_seen": "2026-03-07 07:14:51",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1760617",
+   "malicious": "kittiesmc.com",
+   "benign": "kittiesmc.org",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 15,
+     "suspicious": 2,
+     "undetected": 30,
+     "harmless": 44,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:39:25.265099+00:00"
+   },
+   "vt_benign": {
+    "stats": null,
+    "queried_at": "2026-09-26T10:39:58.134423+00:00"
+   },
+   "benign_known_to_vt": false,
+   "benign_resolves": false
+  },
+  {
+   "ioc": "cdn-js-conhost.icu",
+   "family": "Unknown Stealer",
+   "first_seen": "2026-09-25 18:26:35",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1934261",
+   "malicious": "cdn-js-conhost.icu",
+   "benign": "cdn-js-conhost.com",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 9,
+     "suspicious": 3,
+     "undetected": 32,
+     "harmless": 47,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:40:31.498636+00:00"
+   },
+   "vt_benign": {
+    "stats": null,
+    "queried_at": "2026-09-26T10:36:40.755517+00:00"
+   },
+   "benign_known_to_vt": false,
+   "benign_resolves": false
+  },
+  {
+   "ioc": "webgleam.info",
+   "family": "Unknown malware",
+   "first_seen": "2026-04-04 22:07:06",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1781292",
+   "malicious": "webgleam.info",
+   "benign": "webgleam.com",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 13,
+     "suspicious": 4,
+     "undetected": 30,
+     "harmless": 44,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:42:10.902214+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 35,
+     "harmless": 56,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:42:27.762131+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": true
+  },
+  {
+   "ioc": "aleverifocation.beer",
+   "family": "IClickFix",
+   "first_seen": "2026-09-14 11:05:55",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1917323",
+   "malicious": "aleverifocation.beer",
+   "benign": "aleverifocation.com",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 20,
+     "suspicious": 1,
+     "undetected": 29,
+     "harmless": 41,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:43:02.377346+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:43:18.814097+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": false
+  },
+  {
+   "ioc": "metricvault.icu",
+   "family": "Unknown malware",
+   "first_seen": "2026-02-24 11:33:47",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1754123",
+   "malicious": "metricvault.icu",
+   "benign": "metricvault.com",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 14,
+     "suspicious": 0,
+     "undetected": 33,
+     "harmless": 44,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:43:35.236353+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 36,
+     "harmless": 55,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:43:51.669739+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": true
+  },
+  {
+   "ioc": "bigsmart.beer",
+   "family": "Unknown malware",
+   "first_seen": "2026-03-17 12:40:20",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1769276",
+   "malicious": "bigsmart.beer",
+   "benign": "bigsmart.com",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 15,
+     "suspicious": 2,
+     "undetected": 32,
+     "harmless": 42,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:44:24.519779+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 35,
+     "harmless": 56,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:44:40.951378+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": true
+  },
+  {
+   "ioc": "bloodhorn8123.icu",
+   "family": "Unknown malware",
+   "first_seen": "2026-08-05 13:40:55",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1868878",
+   "malicious": "bloodhorn8123.icu",
+   "benign": "bloodhorn8123.com",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 15,
+     "suspicious": 3,
+     "undetected": 31,
+     "harmless": 42,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:44:58.300512+00:00"
+   },
+   "vt_benign": {
+    "stats": null,
+    "queried_at": "2026-09-26T10:45:14.739981+00:00"
+   },
+   "benign_known_to_vt": false,
+   "benign_resolves": false
+  },
+  {
+   "ioc": "enter-press-cdn.info",
+   "family": "Unknown malware",
+   "first_seen": "2026-08-04 08:33:36",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1868191",
+   "malicious": "enter-press-cdn.info",
+   "benign": "enter-press-cdn.net",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 18,
+     "suspicious": 2,
+     "undetected": 29,
+     "harmless": 42,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:45:31.155329+00:00"
+   },
+   "vt_benign": {
+    "stats": null,
+    "queried_at": "2026-09-26T10:46:04.074670+00:00"
+   },
+   "benign_known_to_vt": false,
+   "benign_resolves": false
+  },
+  {
+   "ioc": "networkness.com",
+   "family": "Cobalt Strike",
+   "first_seen": "2026-09-12 03:47:11",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1915523",
+   "malicious": "networkness.com",
+   "benign": "networkness.net",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 20,
+     "suspicious": 2,
+     "undetected": 31,
+     "harmless": 38,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:46:20.591592+00:00"
+   },
+   "vt_benign": {
+    "stats": null,
+    "queried_at": "2026-09-26T10:46:37.357887+00:00"
+   },
+   "benign_known_to_vt": false,
+   "benign_resolves": false
+  },
+  {
+   "ioc": "web-analyzer-serv32.com",
+   "family": "Cobalt Strike",
+   "first_seen": "2026-06-29 11:46:18",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1839239",
+   "malicious": "web-analyzer-serv32.com",
+   "benign": "web-analyzer-serv32.net",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 14,
+     "suspicious": 4,
+     "undetected": 33,
+     "harmless": 40,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:47:12.104704+00:00"
+   },
+   "vt_benign": {
+    "stats": null,
+    "queried_at": "2026-09-26T10:47:28.531283+00:00"
+   },
+   "benign_known_to_vt": false,
+   "benign_resolves": false
+  },
+  {
+   "ioc": "krestmoais-reed.life",
+   "family": "IClickFix",
+   "first_seen": "2026-09-23 16:44:26",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1930849",
+   "malicious": "krestmoais-reed.life",
+   "benign": "krestmoais-reed.com",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 10,
+     "suspicious": 1,
+     "undetected": 33,
+     "harmless": 47,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:48:01.379376+00:00"
+   },
+   "vt_benign": {
+    "stats": null,
+    "queried_at": "2026-09-26T10:48:17.826224+00:00"
+   },
+   "benign_known_to_vt": false,
+   "benign_resolves": false
+  },
+  {
+   "ioc": "verifyrecapcha.info",
+   "family": "Unknown malware",
+   "first_seen": "2026-07-26 21:24:11",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1859674",
+   "malicious": "verifyrecapcha.info",
+   "benign": "verifyrecapcha.com",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 18,
+     "suspicious": 3,
+     "undetected": 29,
+     "harmless": 41,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:48:50.767665+00:00"
+   },
+   "vt_benign": {
+    "stats": null,
+    "queried_at": "2026-09-26T10:49:07.195699+00:00"
+   },
+   "benign_known_to_vt": false,
+   "benign_resolves": false
+  },
+  {
+   "ioc": "istile-c-cloud.beer",
+   "family": "Unknown malware",
+   "first_seen": "2026-03-22 12:07:43",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1773758",
+   "malicious": "istile-c-cloud.beer",
+   "benign": "istile-c-cloud.com",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 15,
+     "suspicious": 2,
+     "undetected": 31,
+     "harmless": 43,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:49:23.609070+00:00"
+   },
+   "vt_benign": {
+    "stats": null,
+    "queried_at": "2026-09-26T10:49:40.612053+00:00"
+   },
+   "benign_known_to_vt": false,
+   "benign_resolves": false
+  },
+  {
+   "ioc": "cdnjsdelivr.beer",
+   "family": "Unknown malware",
+   "first_seen": "2026-03-25 08:37:12",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1775397",
+   "malicious": "cdnjsdelivr.beer",
+   "benign": "cdnjsdelivr.org",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 16,
+     "suspicious": 3,
+     "undetected": 30,
+     "harmless": 42,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:49:57.023829+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 33,
+     "harmless": 58,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:50:46.427239+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": false
+  },
+  {
+   "ioc": "interseq.at",
+   "family": "IClickFix",
+   "first_seen": "2026-09-11 13:19:54",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1912253",
+   "malicious": "interseq.at",
+   "benign": "interseq.com",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 18,
+     "suspicious": 1,
+     "undetected": 28,
+     "harmless": 44,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:51:02.837123+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 39,
+     "harmless": 52,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:51:19.327980+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": true
+  },
+  {
+   "ioc": "tulipstone.cc",
+   "family": "ACR Stealer",
+   "first_seen": "2026-09-13 13:00:44",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1916611",
+   "malicious": "tulipstone.cc",
+   "benign": "tulipstone.com",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 6,
+     "suspicious": 3,
+     "undetected": 33,
+     "harmless": 49,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:51:35.770085+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 37,
+     "harmless": 54,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:51:52.204557+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": true
+  },
+  {
+   "ioc": "indigowell.cc",
+   "family": "ACR Stealer",
+   "first_seen": "2026-09-26 08:56:51",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934590",
+   "malicious": "indigowell.cc",
+   "benign": "indigowell.com",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 6,
+     "suspicious": 0,
+     "undetected": 35,
+     "harmless": 50,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:52:25.146839+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 36,
+     "harmless": 55,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:52:41.581355+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": true
+  },
+  {
+   "ioc": "fern-crane-ziankroaum.life",
+   "family": "IClickFix",
+   "first_seen": "2026-09-22 16:28:06",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1927537",
+   "malicious": "fern-crane-ziankroaum.life",
+   "benign": "fern-crane-ziankroaum.com",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 7,
+     "suspicious": 0,
+     "undetected": 33,
+     "harmless": 51,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:53:14.718285+00:00"
+   },
+   "vt_benign": {
+    "stats": null,
+    "queried_at": "2026-09-26T10:53:31.126743+00:00"
+   },
+   "benign_known_to_vt": false,
+   "benign_resolves": false
+  },
+  {
+   "ioc": "speedpi12321.xyz",
+   "family": "IClickFix",
+   "first_seen": "2026-09-16 09:55:55",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1920988",
+   "malicious": "speedpi12321.xyz",
+   "benign": "speedpi12321.com",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 14,
+     "suspicious": 3,
+     "undetected": 31,
+     "harmless": 43,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:53:47.575582+00:00"
+   },
+   "vt_benign": {
+    "stats": null,
+    "queried_at": "2026-09-26T10:54:04.846531+00:00"
+   },
+   "benign_known_to_vt": false,
+   "benign_resolves": false
+  },
+  {
+   "ioc": "girlsonpi823.life",
+   "family": "IClickFix",
+   "first_seen": "2026-09-14 16:53:23",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1917885",
+   "malicious": "girlsonpi823.life",
+   "benign": "girlsonpi823.com",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 14,
+     "suspicious": 4,
+     "undetected": 30,
+     "harmless": 43,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:54:21.287665+00:00"
+   },
+   "vt_benign": {
+    "stats": null,
+    "queried_at": "2026-09-26T10:54:37.703981+00:00"
+   },
+   "benign_known_to_vt": false,
+   "benign_resolves": false
+  },
+  {
+   "ioc": "auth-code-verif.beer",
+   "family": "Unknown malware",
+   "first_seen": "2026-07-15 08:52:31",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1850928",
+   "malicious": "auth-code-verif.beer",
+   "benign": "auth-code-verif.com",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 18,
+     "suspicious": 1,
+     "undetected": 29,
+     "harmless": 43,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:54:54.179053+00:00"
+   },
+   "vt_benign": {
+    "stats": null,
+    "queried_at": "2026-09-26T10:55:10.614205+00:00"
+   },
+   "benign_known_to_vt": false,
+   "benign_resolves": false
+  },
+  {
+   "ioc": "visitorflow.icu",
+   "family": "Unknown malware",
+   "first_seen": "2026-02-24 11:36:29",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1754129",
+   "malicious": "visitorflow.icu",
+   "benign": "visitorflow.com",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 14,
+     "suspicious": 1,
+     "undetected": 31,
+     "harmless": 45,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:55:43.467521+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 36,
+     "harmless": 55,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:55:59.898066+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": true
+  },
+  {
+   "ioc": "authorization-code-cdn.info",
+   "family": "Unknown malware",
+   "first_seen": "2026-07-25 13:08:32",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1857590",
+   "malicious": "authorization-code-cdn.info",
+   "benign": "authorization-code-cdn.com",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 17,
+     "suspicious": 2,
+     "undetected": 32,
+     "harmless": 40,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:56:16.329888+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:56:33.496466+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": false
+  },
+  {
+   "ioc": "fontawesome-cdn.cfd",
+   "family": "Unknown Stealer",
+   "first_seen": "2026-09-25 18:26:36",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1934262",
+   "malicious": "fontawesome-cdn.cfd",
+   "benign": "fontawesome-cdn.com",
+   "vt_malicious": {
+    "stats": {
+     "malicious": 14,
+     "suspicious": 3,
+     "undetected": 30,
+     "harmless": 44,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:56:49.910380+00:00"
+   },
+   "vt_benign": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 36,
+     "harmless": 55,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:57:07.127752+00:00"
+   },
+   "benign_known_to_vt": true,
+   "benign_resolves": false
+  }
+ ],
+ "rejected": [
+  {
+   "ioc": "89.125.13.158",
+   "family": "HypeAgent",
+   "first_seen": "2026-08-27 19:47:36",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1889509",
+   "kind": "ip",
+   "reason": "VT malicious 3 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 3,
+     "suspicious": 2,
+     "undetected": 34,
+     "harmless": 52,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:31:33.820964+00:00"
+   }
+  },
+  {
+   "ioc": "213.108.3.84",
+   "family": "Drifter",
+   "first_seen": "2026-09-26 06:20:37",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934171",
+   "kind": "ip",
+   "reason": "VT malicious 1 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 1,
+     "suspicious": 1,
+     "undetected": 36,
+     "harmless": 53,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:39:16.164143+00:00"
+   }
+  },
+  {
+   "ioc": "36.248.232.160",
+   "family": "Unknown malware",
+   "first_seen": "2026-09-22 09:46:19",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1927296",
+   "kind": "ip",
+   "reason": "VT malicious 1 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 1,
+     "suspicious": 0,
+     "undetected": 38,
+     "harmless": 52,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:39:33.309245+00:00"
+   }
+  },
+  {
+   "ioc": "176.65.132.207",
+   "family": "Mirai",
+   "first_seen": "2026-09-18 19:44:14",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1924199",
+   "kind": "ip",
+   "reason": "no zero-detection counterpart found",
+   "vt": {
+    "stats": {
+     "malicious": 8,
+     "suspicious": 2,
+     "undetected": 33,
+     "harmless": 48,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:47:35.019137+00:00"
+   }
+  },
+  {
+   "ioc": "43.166.68.17",
+   "family": "Jackskid",
+   "first_seen": "2026-09-17 12:42:02",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1923165",
+   "kind": "ip",
+   "reason": "VT malicious 2 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 2,
+     "suspicious": 1,
+     "undetected": 36,
+     "harmless": 52,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:50:37.430911+00:00"
+   }
+  },
+  {
+   "ioc": "102.117.174.189",
+   "family": "Unknown malware",
+   "first_seen": "2026-08-27 19:43:04",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1889482",
+   "kind": "ip",
+   "reason": "VT malicious 3 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 3,
+     "suspicious": 2,
+     "undetected": 33,
+     "harmless": 53,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:52:49.203801+00:00"
+   }
+  },
+  {
+   "ioc": "177.22.117.74",
+   "family": "DanaBot",
+   "first_seen": "2026-09-23 19:44:28",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1931039",
+   "kind": "ip",
+   "reason": "VT malicious 3 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 3,
+     "suspicious": 1,
+     "undetected": 35,
+     "harmless": 52,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T09:57:47.479342+00:00"
+   }
+  },
+  {
+   "ioc": "216.9.224.130",
+   "family": "Remcos",
+   "first_seen": "2026-09-26 06:20:56",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1932806",
+   "kind": "ip",
+   "reason": "VT malicious 1 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 1,
+     "suspicious": 0,
+     "undetected": 37,
+     "harmless": 53,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:01:55.132576+00:00"
+   }
+  },
+  {
+   "ioc": "20.175.26.173",
+   "family": "Evilginx",
+   "first_seen": "2026-09-17 19:45:12",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1923453",
+   "kind": "ip",
+   "reason": "VT malicious 2 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 2,
+     "suspicious": 1,
+     "undetected": 37,
+     "harmless": 51,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:02:11.549051+00:00"
+   }
+  },
+  {
+   "ioc": "77.232.41.119",
+   "family": "Jackskid",
+   "first_seen": "2026-09-18 05:04:37",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1923790",
+   "kind": "ip",
+   "reason": "VT malicious 2 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 2,
+     "suspicious": 1,
+     "undetected": 35,
+     "harmless": 53,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:02:27.977956+00:00"
+   }
+  },
+  {
+   "ioc": "185.212.128.89",
+   "family": "Evilginx",
+   "first_seen": "2026-09-21 09:44:30",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1926381",
+   "kind": "ip",
+   "reason": "VT malicious 3 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 3,
+     "suspicious": 1,
+     "undetected": 34,
+     "harmless": 53,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:02:44.953106+00:00"
+   }
+  },
+  {
+   "ioc": "46.246.6.18",
+   "family": "DCRat",
+   "first_seen": "2026-09-18 09:57:09",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1923884",
+   "kind": "ip",
+   "reason": "no zero-detection counterpart found",
+   "vt": {
+    "stats": {
+     "malicious": 6,
+     "suspicious": 1,
+     "undetected": 33,
+     "harmless": 51,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:04:57.889644+00:00"
+   }
+  },
+  {
+   "ioc": "159.223.56.76",
+   "family": "Aisuru",
+   "first_seen": "2026-09-23 15:03:26",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1929674",
+   "kind": "ip",
+   "reason": "VT malicious 3 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 3,
+     "suspicious": 2,
+     "undetected": 35,
+     "harmless": 51,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:08:33.232785+00:00"
+   }
+  },
+  {
+   "ioc": "128.90.103.171",
+   "family": "Remcos",
+   "first_seen": "2026-09-26 06:20:21",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934370",
+   "kind": "ip",
+   "reason": "VT malicious 1 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 1,
+     "suspicious": 1,
+     "undetected": 35,
+     "harmless": 54,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:11:35.713964+00:00"
+   }
+  },
+  {
+   "ioc": "imersion4cf.site",
+   "family": "IClickFix",
+   "first_seen": "2026-09-25 13:25:11",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1932824",
+   "kind": "domain",
+   "reason": "VT malicious 3 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 3,
+     "suspicious": 1,
+     "undetected": 36,
+     "harmless": 51,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:12:57.852448+00:00"
+   }
+  },
+  {
+   "ioc": "dovewick.cc",
+   "family": "ACR Stealer",
+   "first_seen": "2026-09-26 08:56:51",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934577",
+   "kind": "domain",
+   "reason": "VT malicious 0 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 36,
+     "harmless": 55,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:13:14.320814+00:00"
+   }
+  },
+  {
+   "ioc": "bramblefox.cc",
+   "family": "ACR Stealer",
+   "first_seen": "2026-09-26 08:56:51",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934563",
+   "kind": "domain",
+   "reason": "VT malicious 0 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 36,
+     "harmless": 55,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:13:31.216301+00:00"
+   }
+  },
+  {
+   "ioc": "hexforge.cc",
+   "family": "ACR Stealer",
+   "first_seen": "2026-09-26 08:56:51",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934588",
+   "kind": "domain",
+   "reason": "VT malicious 0 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 36,
+     "harmless": 55,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:13:47.599661+00:00"
+   }
+  },
+  {
+   "ioc": "hemlockbay.cc",
+   "family": "ACR Stealer",
+   "first_seen": "2026-09-26 08:56:51",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934587",
+   "kind": "domain",
+   "reason": "VT malicious 0 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 36,
+     "harmless": 55,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:16:01.316030+00:00"
+   }
+  },
+  {
+   "ioc": "coral-weave-wren-veis.com",
+   "family": "IClickFix",
+   "first_seen": "2026-09-18 20:43:17",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1924231",
+   "kind": "domain",
+   "reason": "VT malicious 3 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 3,
+     "suspicious": 1,
+     "undetected": 33,
+     "harmless": 54,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:16:17.793375+00:00"
+   }
+  },
+  {
+   "ioc": "wrdn.su",
+   "family": "Unknown Stealer",
+   "first_seen": "2026-09-26 06:20:23",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934365",
+   "kind": "domain",
+   "reason": "VT malicious 1 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 1,
+     "suspicious": 3,
+     "undetected": 35,
+     "harmless": 52,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:16:34.309421+00:00"
+   }
+  },
+  {
+   "ioc": "peddlingconjure.cc",
+   "family": "ACR Stealer",
+   "first_seen": "2026-09-26 08:56:52",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934600",
+   "kind": "domain",
+   "reason": "VT malicious 0 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 36,
+     "harmless": 55,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:16:50.762176+00:00"
+   }
+  },
+  {
+   "ioc": "journey-5.com",
+   "family": "AMOS",
+   "first_seen": "2026-09-26 06:20:40",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934164",
+   "kind": "domain",
+   "reason": "VT malicious 1 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 1,
+     "suspicious": 1,
+     "undetected": 36,
+     "harmless": 53,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:18:06.597529+00:00"
+   }
+  },
+  {
+   "ioc": "gingerfall.cc",
+   "family": "ACR Stealer",
+   "first_seen": "2026-09-26 08:56:51",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934584",
+   "kind": "domain",
+   "reason": "VT malicious 0 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 36,
+     "harmless": 55,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:18:23.053457+00:00"
+   }
+  },
+  {
+   "ioc": "checkms5.cc",
+   "family": "IClickFix",
+   "first_seen": "2026-09-24 16:15:39",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1932345",
+   "kind": "domain",
+   "reason": "VT malicious 1 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 1,
+     "suspicious": 1,
+     "undetected": 37,
+     "harmless": 52,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:19:46.235668+00:00"
+   }
+  },
+  {
+   "ioc": "cabskaiyn-crane.life",
+   "family": "IClickFix",
+   "first_seen": "2026-09-20 14:06:03",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1924912",
+   "kind": "domain",
+   "reason": "VT malicious 2 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 2,
+     "suspicious": 0,
+     "undetected": 34,
+     "harmless": 55,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:20:02.825816+00:00"
+   }
+  },
+  {
+   "ioc": "frostmere.cc",
+   "family": "ACR Stealer",
+   "first_seen": "2026-09-26 08:56:51",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934582",
+   "kind": "domain",
+   "reason": "VT malicious 0 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 36,
+     "harmless": 55,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:20:52.237977+00:00"
+   }
+  },
+  {
+   "ioc": "clovermark.cc",
+   "family": "ACR Stealer",
+   "first_seen": "2026-09-26 08:47:26",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934551",
+   "kind": "domain",
+   "reason": "VT malicious 1 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 1,
+     "suspicious": 1,
+     "undetected": 35,
+     "harmless": 54,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:21:09.103598+00:00"
+   }
+  },
+  {
+   "ioc": "brightloop.cc",
+   "family": "ACR Stealer",
+   "first_seen": "2026-09-26 08:56:51",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934564",
+   "kind": "domain",
+   "reason": "VT malicious 0 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 36,
+     "harmless": 55,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:21:25.540878+00:00"
+   }
+  },
+  {
+   "ioc": "bytestreem.cc",
+   "family": "ACR Stealer",
+   "first_seen": "2026-09-26 08:56:51",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934568",
+   "kind": "domain",
+   "reason": "VT malicious 0 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 36,
+     "harmless": 55,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:25:36.211011+00:00"
+   }
+  },
+  {
+   "ioc": "ninjamysticblade.cfd",
+   "family": "Lumma Stealer",
+   "first_seen": "2026-09-26 06:20:43",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1934156",
+   "kind": "domain",
+   "reason": "VT malicious 3 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 3,
+     "suspicious": 4,
+     "undetected": 34,
+     "harmless": 50,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:27:48.497394+00:00"
+   }
+  },
+  {
+   "ioc": "kiln-skioi-c29up.com",
+   "family": "IClickFix",
+   "first_seen": "2026-09-19 09:06:06",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1924393",
+   "kind": "domain",
+   "reason": "VT malicious 4 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 4,
+     "suspicious": 2,
+     "undetected": 32,
+     "harmless": 53,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:28:39.289816+00:00"
+   }
+  },
+  {
+   "ioc": "elmquarry.cc",
+   "family": "ACR Stealer",
+   "first_seen": "2026-09-26 08:56:51",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934580",
+   "kind": "domain",
+   "reason": "VT malicious 1 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 1,
+     "suspicious": 1,
+     "undetected": 36,
+     "harmless": 53,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:28:56.216310+00:00"
+   }
+  },
+  {
+   "ioc": "boulderleaf.cc",
+   "family": "ACR Stealer",
+   "first_seen": "2026-09-26 08:47:26",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934550",
+   "kind": "domain",
+   "reason": "VT malicious 1 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 1,
+     "suspicious": 1,
+     "undetected": 37,
+     "harmless": 52,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:29:13.154965+00:00"
+   }
+  },
+  {
+   "ioc": "humiliatepreseason.cc",
+   "family": "ACR Stealer",
+   "first_seen": "2026-09-26 08:56:51",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934589",
+   "kind": "domain",
+   "reason": "VT malicious 0 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 36,
+     "harmless": 55,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:30:02.544638+00:00"
+   }
+  },
+  {
+   "ioc": "logicbyte.cc",
+   "family": "ACR Stealer",
+   "first_seen": "2026-09-26 08:56:52",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934598",
+   "kind": "domain",
+   "reason": "VT malicious 0 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 36,
+     "harmless": 55,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:32:14.748465+00:00"
+   }
+  },
+  {
+   "ioc": "sable-orbit-wren-fiayn.live",
+   "family": "IClickFix",
+   "first_seen": "2026-09-13 12:09:11",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1916412",
+   "kind": "domain",
+   "reason": "VT malicious 4 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 4,
+     "suspicious": 4,
+     "undetected": 33,
+     "harmless": 50,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:35:18.498581+00:00"
+   }
+  },
+  {
+   "ioc": "grove-kaee-j4jgh.lol",
+   "family": "IClickFix",
+   "first_seen": "2026-09-21 15:53:39",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1926557",
+   "kind": "domain",
+   "reason": "VT malicious 2 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 2,
+     "suspicious": 3,
+     "undetected": 35,
+     "harmless": 51,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:36:07.884021+00:00"
+   }
+  },
+  {
+   "ioc": "junebrook.cc",
+   "family": "ACR Stealer",
+   "first_seen": "2026-09-26 08:56:52",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934592",
+   "kind": "domain",
+   "reason": "VT malicious 0 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 36,
+     "harmless": 55,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:36:57.223472+00:00"
+   }
+  },
+  {
+   "ioc": "tftp2.sh",
+   "family": "Mirai",
+   "first_seen": "2026-09-16 06:24:35",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1920900",
+   "kind": "domain",
+   "reason": "VT malicious 4 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 4,
+     "suspicious": 0,
+     "undetected": 35,
+     "harmless": 52,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:38:19.328752+00:00"
+   }
+  },
+  {
+   "ioc": "lowenbay.cc",
+   "family": "ACR Stealer",
+   "first_seen": "2026-09-26 08:56:52",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934599",
+   "kind": "domain",
+   "reason": "VT malicious 0 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 36,
+     "harmless": 55,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:38:35.733097+00:00"
+   }
+  },
+  {
+   "ioc": "buildcraft.cc",
+   "family": "ACR Stealer",
+   "first_seen": "2026-09-26 08:56:51",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934565",
+   "kind": "domain",
+   "reason": "VT malicious 0 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 36,
+     "harmless": 55,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:40:14.735827+00:00"
+   }
+  },
+  {
+   "ioc": "cleverstack.cc",
+   "family": "ACR Stealer",
+   "first_seen": "2026-09-26 08:56:51",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934573",
+   "kind": "domain",
+   "reason": "VT malicious 0 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 36,
+     "harmless": 55,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:40:47.907659+00:00"
+   }
+  },
+  {
+   "ioc": "duskmoor.cc",
+   "family": "ACR Stealer",
+   "first_seen": "2026-09-26 08:56:51",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934578",
+   "kind": "domain",
+   "reason": "VT malicious 0 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 36,
+     "harmless": 55,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:41:04.643828+00:00"
+   }
+  },
+  {
+   "ioc": "sableyard.cc",
+   "family": "ACR Stealer",
+   "first_seen": "2026-09-26 08:47:26",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934554",
+   "kind": "domain",
+   "reason": "VT malicious 0 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 36,
+     "harmless": 55,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:41:21.060623+00:00"
+   }
+  },
+  {
+   "ioc": "bytestream.cc",
+   "family": "ACR Stealer",
+   "first_seen": "2026-09-26 08:56:51",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934567",
+   "kind": "domain",
+   "reason": "VT malicious 1 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 1,
+     "suspicious": 0,
+     "undetected": 35,
+     "harmless": 55,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:41:37.484011+00:00"
+   }
+  },
+  {
+   "ioc": "cdn-2faclov.sbs",
+   "family": "Unknown malware",
+   "first_seen": "2026-03-13 16:12:36",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1765462",
+   "kind": "domain",
+   "reason": "VT malicious 1 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 1,
+     "suspicious": 0,
+     "undetected": 34,
+     "harmless": 56,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:41:53.925265+00:00"
+   }
+  },
+  {
+   "ioc": "koalafield.cc",
+   "family": "ACR Stealer",
+   "first_seen": "2026-09-26 08:56:52",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934596",
+   "kind": "domain",
+   "reason": "VT malicious 1 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 1,
+     "suspicious": 1,
+     "undetected": 37,
+     "harmless": 52,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:42:44.210057+00:00"
+   }
+  },
+  {
+   "ioc": "myauroracare.com",
+   "family": "Unknown malware",
+   "first_seen": "2026-09-24 18:42:13",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1932382",
+   "kind": "domain",
+   "reason": "VT malicious 4 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 4,
+     "suspicious": 2,
+     "undetected": 32,
+     "harmless": 53,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:44:08.099547+00:00"
+   }
+  },
+  {
+   "ioc": "acornvista.cc",
+   "family": "ACR Stealer",
+   "first_seen": "2026-09-26 08:56:50",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934559",
+   "kind": "domain",
+   "reason": "VT malicious 1 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 1,
+     "suspicious": 1,
+     "undetected": 36,
+     "harmless": 53,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:46:55.650327+00:00"
+   }
+  },
+  {
+   "ioc": "cloudbyt.cc",
+   "family": "ACR Stealer",
+   "first_seen": "2026-09-26 08:56:51",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934575",
+   "kind": "domain",
+   "reason": "VT malicious 0 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 91,
+     "harmless": 0,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:47:44.957221+00:00"
+   }
+  },
+  {
+   "ioc": "garnetmill.cc",
+   "family": "ACR Stealer",
+   "first_seen": "2026-09-26 08:56:51",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934583",
+   "kind": "domain",
+   "reason": "VT malicious 1 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 1,
+     "suspicious": 1,
+     "undetected": 37,
+     "harmless": 52,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:48:34.226576+00:00"
+   }
+  },
+  {
+   "ioc": "kineticnode.shop",
+   "family": "Unknown malware",
+   "first_seen": "2026-04-28 19:26:28",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1801817",
+   "kind": "domain",
+   "reason": "VT malicious 1 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 1,
+     "suspicious": 0,
+     "undetected": 35,
+     "harmless": 55,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:52:08.725818+00:00"
+   }
+  },
+  {
+   "ioc": "bdducts.click",
+   "family": "Remus",
+   "first_seen": "2026-09-25 06:28:03",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1932575",
+   "kind": "domain",
+   "reason": "VT malicious 4 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 4,
+     "suspicious": 1,
+     "undetected": 34,
+     "harmless": 52,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:52:58.312520+00:00"
+   }
+  },
+  {
+   "ioc": "cinderlake.cc",
+   "family": "ACR Stealer",
+   "first_seen": "2026-09-26 08:56:51",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934571",
+   "kind": "domain",
+   "reason": "VT malicious 0 < 5",
+   "vt": {
+    "stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "undetected": 36,
+     "harmless": 55,
+     "timeout": 0
+    },
+    "queried_at": "2026-09-26T10:55:27.005555+00:00"
+   }
+  }
+ ]
+}

@@ -1,0 +1,4 @@
+{"id": "D01_microsoft_aad_graph_retire", "tried": [["mistral-large-3:675b", ["learn.microsoft.com"]], ["glm-5.3", []]], "final": "glm-5.3"}
+{"id": "B01_freshservice_nat_ips", "tried": [["mistral-large-3:675b", ["support.freshservice.com"]], ["glm-5.3", []]], "final": "glm-5.3"}
+{"id": "L14_qualys_cf_ip2", "tried": [["mistral-large-3:675b", ["162.159.137.219"]], ["glm-5.3", []]], "final": "glm-5.3"}
+{"id": "B01_apollo_uplink_ips", "tried": [["mistral-large-3:675b", ["www.apollographql.com"]], ["glm-5.3", []]], "final": "glm-5.3"}

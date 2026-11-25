@@ -1,0 +1,1084 @@
+{
+ "ip": [
+  {
+   "ioc": "45.88.186.207",
+   "family": "PureRAT",
+   "first_seen": "2026-09-18 19:46:23",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1924209"
+  },
+  {
+   "ioc": "104.239.66.26",
+   "family": "PureRAT",
+   "first_seen": "2026-09-08 19:43:15",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1905590"
+  },
+  {
+   "ioc": "89.125.13.158",
+   "family": "HypeAgent",
+   "first_seen": "2026-08-27 19:47:36",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1889509"
+  },
+  {
+   "ioc": "5.104.86.108",
+   "family": "Cobalt Strike",
+   "first_seen": "2026-09-13 04:49:06",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1916120"
+  },
+  {
+   "ioc": "56.69.248.141",
+   "family": "PureRAT",
+   "first_seen": "2026-09-02 09:46:41",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1893151"
+  },
+  {
+   "ioc": "68.178.202.150",
+   "family": "Sliver",
+   "first_seen": "2026-09-12 09:47:25",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1915614"
+  },
+  {
+   "ioc": "217.60.195.50",
+   "family": "DCRat",
+   "first_seen": "2026-09-15 09:45:51",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1920303"
+  },
+  {
+   "ioc": "81.70.21.163",
+   "family": "Cobalt Strike",
+   "first_seen": "2026-09-18 08:03:05",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1923850"
+  },
+  {
+   "ioc": "106.54.201.103",
+   "family": "Cobalt Strike",
+   "first_seen": "2026-09-18 08:03:16",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1923854"
+  },
+  {
+   "ioc": "192.241.151.6",
+   "family": "Evilginx",
+   "first_seen": "2026-09-09 19:44:56",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1906413"
+  },
+  {
+   "ioc": "38.54.13.48",
+   "family": "Unknown malware",
+   "first_seen": "2026-09-13 19:45:52",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1916953"
+  },
+  {
+   "ioc": "207.56.7.53",
+   "family": "DCRat",
+   "first_seen": "2026-09-01 09:45:42",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1892423"
+  },
+  {
+   "ioc": "105.101.131.181",
+   "family": "AsyncRAT",
+   "first_seen": "2026-09-11 19:43:19",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1912763"
+  },
+  {
+   "ioc": "154.37.213.27",
+   "family": "Havoc",
+   "first_seen": "2026-08-28 09:43:52",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1889859"
+  },
+  {
+   "ioc": "154.94.237.203",
+   "family": "Cobalt Strike",
+   "first_seen": "2026-08-29 23:46:49",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1891220"
+  },
+  {
+   "ioc": "213.108.3.84",
+   "family": "Drifter",
+   "first_seen": "2026-09-26 06:20:37",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934171"
+  },
+  {
+   "ioc": "36.248.232.160",
+   "family": "Unknown malware",
+   "first_seen": "2026-09-22 09:46:19",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1927296"
+  },
+  {
+   "ioc": "54.199.206.9",
+   "family": "AsyncRAT",
+   "first_seen": "2026-08-29 19:46:41",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1891173"
+  },
+  {
+   "ioc": "172.94.18.103",
+   "family": "AsyncRAT",
+   "first_seen": "2026-09-16 19:44:27",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1921304"
+  },
+  {
+   "ioc": "196.251.121.124",
+   "family": "PureRAT",
+   "first_seen": "2026-09-04 19:44:59",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1894471"
+  },
+  {
+   "ioc": "223.109.142.7",
+   "family": "Cobalt Strike",
+   "first_seen": "2026-09-04 17:47:55",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1894383"
+  },
+  {
+   "ioc": "156.238.120.12",
+   "family": "DCRat",
+   "first_seen": "2026-09-04 19:43:57",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1894462"
+  },
+  {
+   "ioc": "144.31.6.6",
+   "family": "PureRAT",
+   "first_seen": "2026-08-30 19:43:37",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1891533"
+  },
+  {
+   "ioc": "38.247.165.127",
+   "family": "AsyncRAT",
+   "first_seen": "2026-09-09 19:46:33",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1906418"
+  },
+  {
+   "ioc": "45.125.67.196",
+   "family": "Sliver",
+   "first_seen": "2026-08-29 09:46:20",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1890999"
+  },
+  {
+   "ioc": "167.179.67.162",
+   "family": "Cobalt Strike",
+   "first_seen": "2026-09-19 03:47:32",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1924323"
+  },
+  {
+   "ioc": "193.25.215.37",
+   "family": "PureRAT",
+   "first_seen": "2026-09-12 19:44:46",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1915955"
+  },
+  {
+   "ioc": "45.86.229.111",
+   "family": "Havoc",
+   "first_seen": "2026-09-21 09:46:32",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1926389"
+  },
+  {
+   "ioc": "130.94.42.202",
+   "family": "AdaptixC2",
+   "first_seen": "2026-09-14 09:43:34",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1917299"
+  },
+  {
+   "ioc": "176.65.132.207",
+   "family": "Mirai",
+   "first_seen": "2026-09-18 19:44:14",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1924199"
+  },
+  {
+   "ioc": "43.166.68.17",
+   "family": "Jackskid",
+   "first_seen": "2026-09-17 12:42:02",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1923165"
+  },
+  {
+   "ioc": "82.165.202.90",
+   "family": "Unknown malware",
+   "first_seen": "2026-08-28 19:46:23",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1890811"
+  },
+  {
+   "ioc": "102.220.160.198",
+   "family": "AsyncRAT",
+   "first_seen": "2026-09-19 09:43:06",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1924407"
+  },
+  {
+   "ioc": "74.208.146.77",
+   "family": "AsyncRAT",
+   "first_seen": "2026-09-23 19:47:18",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1931054"
+  },
+  {
+   "ioc": "102.117.174.189",
+   "family": "Unknown malware",
+   "first_seen": "2026-08-27 19:43:04",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1889482"
+  },
+  {
+   "ioc": "134.209.223.192",
+   "family": "Aisuru",
+   "first_seen": "2026-09-15 06:05:17",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1917975"
+  },
+  {
+   "ioc": "220.154.128.196",
+   "family": "Unknown malware",
+   "first_seen": "2026-09-08 09:46:03",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1905428"
+  },
+  {
+   "ioc": "121.41.70.79",
+   "family": "AdaptixC2",
+   "first_seen": "2026-09-22 09:43:27",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1927285"
+  },
+  {
+   "ioc": "122.51.212.92",
+   "family": "BianLian",
+   "first_seen": "2026-09-02 09:43:27",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1893140"
+  },
+  {
+   "ioc": "78.17.93.96",
+   "family": "AdaptixC2",
+   "first_seen": "2026-09-11 09:47:18",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1912187"
+  },
+  {
+   "ioc": "94.237.62.102",
+   "family": "AdaptixC2",
+   "first_seen": "2026-09-13 19:46:52",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1916958"
+  },
+  {
+   "ioc": "89.126.221.170",
+   "family": "AdaptixC2",
+   "first_seen": "2026-09-17 19:47:11",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1923461"
+  },
+  {
+   "ioc": "46.183.223.30",
+   "family": "Remcos",
+   "first_seen": "2026-09-22 08:30:54",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1927254"
+  },
+  {
+   "ioc": "177.22.117.74",
+   "family": "DanaBot",
+   "first_seen": "2026-09-23 19:44:28",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1931039"
+  },
+  {
+   "ioc": "180.93.115.26",
+   "family": "Mirai",
+   "first_seen": "2026-09-06 19:44:18",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1903037"
+  },
+  {
+   "ioc": "37.244.232.113",
+   "family": "DanaBot",
+   "first_seen": "2026-09-12 09:46:41",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1915610"
+  },
+  {
+   "ioc": "155.103.69.85",
+   "family": "Remcos",
+   "first_seen": "2026-09-24 16:15:43",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1932292"
+  },
+  {
+   "ioc": "202.61.160.183",
+   "family": "ValleyRAT",
+   "first_seen": "2026-09-25 03:00:26",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1932607"
+  },
+  {
+   "ioc": "216.9.224.130",
+   "family": "Remcos",
+   "first_seen": "2026-09-26 06:20:56",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1932806"
+  },
+  {
+   "ioc": "20.175.26.173",
+   "family": "Evilginx",
+   "first_seen": "2026-09-17 19:45:12",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1923453"
+  },
+  {
+   "ioc": "77.232.41.119",
+   "family": "Jackskid",
+   "first_seen": "2026-09-18 05:04:37",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1923790"
+  },
+  {
+   "ioc": "185.212.128.89",
+   "family": "Evilginx",
+   "first_seen": "2026-09-21 09:44:30",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1926381"
+  },
+  {
+   "ioc": "64.84.56.233",
+   "family": "DanaBot",
+   "first_seen": "2026-09-19 09:46:50",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1924422"
+  },
+  {
+   "ioc": "64.227.59.213",
+   "family": "Unknown malware",
+   "first_seen": "2026-09-01 19:46:20",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1892656"
+  },
+  {
+   "ioc": "143.246.217.103",
+   "family": "AdaptixC2",
+   "first_seen": "2026-09-10 09:43:46",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1907049"
+  },
+  {
+   "ioc": "46.246.6.18",
+   "family": "DCRat",
+   "first_seen": "2026-09-18 09:57:09",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1923884"
+  },
+  {
+   "ioc": "194.58.47.81",
+   "family": "DCRat",
+   "first_seen": "2026-09-01 09:45:07",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1892421"
+  },
+  {
+   "ioc": "159.223.56.76",
+   "family": "Aisuru",
+   "first_seen": "2026-09-23 15:03:26",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1929674"
+  },
+  {
+   "ioc": "206.123.132.166",
+   "family": "DCRat",
+   "first_seen": "2026-09-10 09:45:29",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1907060"
+  },
+  {
+   "ioc": "16.5.7.159",
+   "family": "Havoc",
+   "first_seen": "2026-09-11 09:44:06",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1912171"
+  },
+  {
+   "ioc": "194.26.192.168",
+   "family": "Quasar RAT",
+   "first_seen": "2026-09-26 01:50:43",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934453"
+  },
+  {
+   "ioc": "128.90.103.171",
+   "family": "Remcos",
+   "first_seen": "2026-09-26 06:20:21",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934370"
+  },
+  {
+   "ioc": "94.250.167.221",
+   "family": "DanaBot",
+   "first_seen": "2026-08-29 09:47:13",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1891005"
+  },
+  {
+   "ioc": "217.217.97.164",
+   "family": "Havoc",
+   "first_seen": "2026-08-27 09:46:13",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1889177"
+  },
+  {
+   "ioc": "93.127.160.86",
+   "family": "Remcos",
+   "first_seen": "2026-09-09 15:26:28",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1906279"
+  },
+  {
+   "ioc": "77.90.14.60",
+   "family": "Mirai",
+   "first_seen": "2026-09-15 19:47:00",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1920482"
+  },
+  {
+   "ioc": "43.157.78.243",
+   "family": "Jackskid",
+   "first_seen": "2026-09-17 12:42:02",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1923163"
+  },
+  {
+   "ioc": "92.119.158.39",
+   "family": "Jackskid",
+   "first_seen": "2026-09-20 14:52:16",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1924862"
+  },
+  {
+   "ioc": "5.181.2.159",
+   "family": "Potassium",
+   "first_seen": "2026-09-26 06:20:32",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934178"
+  },
+  {
+   "ioc": "109.227.42.108",
+   "family": "DanaBot",
+   "first_seen": "2026-09-08 19:43:25",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1905592"
+  },
+  {
+   "ioc": "185.215.151.9",
+   "family": "Remcos",
+   "first_seen": "2026-09-24 04:58:55",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1931073"
+  },
+  {
+   "ioc": "38.180.250.214",
+   "family": "Tsundere",
+   "first_seen": "2026-08-29 19:46:14",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1891167"
+  },
+  {
+   "ioc": "86.54.29.65",
+   "family": "Evilginx",
+   "first_seen": "2026-09-08 09:47:17",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1905438"
+  },
+  {
+   "ioc": "132.226.198.241",
+   "family": "Havoc",
+   "first_seen": "2026-09-20 09:43:37",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1924824"
+  },
+  {
+   "ioc": "66.78.40.93",
+   "family": "Havoc",
+   "first_seen": "2026-09-08 19:47:20",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1905623"
+  },
+  {
+   "ioc": "84.247.141.236",
+   "family": "Evilginx",
+   "first_seen": "2026-09-12 09:47:36",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1915616"
+  },
+  {
+   "ioc": "137.184.108.14",
+   "family": "Remus",
+   "first_seen": "2026-09-25 12:30:12",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1932814"
+  },
+  {
+   "ioc": "168.144.138.211",
+   "family": "Aisuru",
+   "first_seen": "2026-09-25 11:47:15",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1932801"
+  },
+  {
+   "ioc": "159.203.178.139",
+   "family": "Aisuru",
+   "first_seen": "2026-09-15 17:23:24",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1920428"
+  },
+  {
+   "ioc": "178.128.171.71",
+   "family": "Evilginx",
+   "first_seen": "2026-09-04 09:44:57",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1894249"
+  },
+  {
+   "ioc": "154.216.139.17",
+   "family": "DanaBot",
+   "first_seen": "2026-09-19 09:43:53",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1924414"
+  },
+  {
+   "ioc": "5.189.132.216",
+   "family": "NonEuclid RAT",
+   "first_seen": "2026-09-26 08:26:29",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934546"
+  },
+  {
+   "ioc": "165.245.246.201",
+   "family": "Jackskid",
+   "first_seen": "2026-09-23 09:05:10",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1929556"
+  },
+  {
+   "ioc": "152.42.196.145",
+   "family": "Jackskid",
+   "first_seen": "2026-09-23 09:05:11",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1929555"
+  },
+  {
+   "ioc": "172.245.155.83",
+   "family": "HypeAgent",
+   "first_seen": "2026-08-28 09:44:14",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1889866"
+  },
+  {
+   "ioc": "89.185.82.37",
+   "family": "Potassium",
+   "first_seen": "2026-09-26 06:20:32",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934179"
+  },
+  {
+   "ioc": "130.61.146.214",
+   "family": "Hook",
+   "first_seen": "2026-09-22 19:43:32",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1927907"
+  },
+  {
+   "ioc": "91.124.98.6",
+   "family": "HypeAgent",
+   "first_seen": "2026-09-08 19:47:38",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1905624"
+  },
+  {
+   "ioc": "209.38.37.114",
+   "family": "Kimwolf",
+   "first_seen": "2026-09-14 08:01:51",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1917172"
+  },
+  {
+   "ioc": "194.59.31.78",
+   "family": "HypeAgent",
+   "first_seen": "2026-08-28 09:44:55",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1889868"
+  }
+ ],
+ "domain": [
+  {
+   "ioc": "imersion4cf.site",
+   "family": "IClickFix",
+   "first_seen": "2026-09-25 13:25:11",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1932824"
+  },
+  {
+   "ioc": "dovewick.cc",
+   "family": "ACR Stealer",
+   "first_seen": "2026-09-26 08:56:51",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934577"
+  },
+  {
+   "ioc": "bramblefox.cc",
+   "family": "ACR Stealer",
+   "first_seen": "2026-09-26 08:56:51",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934563"
+  },
+  {
+   "ioc": "hexforge.cc",
+   "family": "ACR Stealer",
+   "first_seen": "2026-09-26 08:56:51",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934588"
+  },
+  {
+   "ioc": "buysypi831.life",
+   "family": "IClickFix",
+   "first_seen": "2026-09-15 20:39:14",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1920575"
+  },
+  {
+   "ioc": "hemlockbay.cc",
+   "family": "ACR Stealer",
+   "first_seen": "2026-09-26 08:56:51",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934587"
+  },
+  {
+   "ioc": "coral-weave-wren-veis.com",
+   "family": "IClickFix",
+   "first_seen": "2026-09-18 20:43:17",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1924231"
+  },
+  {
+   "ioc": "wrdn.su",
+   "family": "Unknown Stealer",
+   "first_seen": "2026-09-26 06:20:23",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934365"
+  },
+  {
+   "ioc": "peddlingconjure.cc",
+   "family": "ACR Stealer",
+   "first_seen": "2026-09-26 08:56:52",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934600"
+  },
+  {
+   "ioc": "voyag413.xyz",
+   "family": "IClickFix",
+   "first_seen": "2026-09-14 16:53:24",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1917897"
+  },
+  {
+   "ioc": "reed-pavcaeor.life",
+   "family": "IClickFix",
+   "first_seen": "2026-09-13 12:09:11",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1916411"
+  },
+  {
+   "ioc": "basilcrest.cc",
+   "family": "ACR Stealer",
+   "first_seen": "2026-09-26 08:56:50",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934561"
+  },
+  {
+   "ioc": "hollow-badger-moasfraum.life",
+   "family": "IClickFix",
+   "first_seen": "2026-09-24 20:40:48",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1932446"
+  },
+  {
+   "ioc": "gaezskoynbrisk.com",
+   "family": "IClickFix",
+   "first_seen": "2026-09-18 11:08:56",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1923913"
+  },
+  {
+   "ioc": "cabskaiyn-crane.life",
+   "family": "IClickFix",
+   "first_seen": "2026-09-20 14:06:03",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1924912"
+  },
+  {
+   "ioc": "compilehub.cc",
+   "family": "ACR Stealer",
+   "first_seen": "2026-09-26 08:56:51",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934576"
+  },
+  {
+   "ioc": "indigo-finch-misgoaen.life",
+   "family": "IClickFix",
+   "first_seen": "2026-09-25 13:58:30",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1932831"
+  },
+  {
+   "ioc": "evrything-pix.icu",
+   "family": "IClickFix",
+   "first_seen": "2026-09-14 16:53:23",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1917883"
+  },
+  {
+   "ioc": "cachenest.cc",
+   "family": "ACR Stealer",
+   "first_seen": "2026-09-26 08:56:51",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934570"
+  },
+  {
+   "ioc": "schinner.icu",
+   "family": "KongTuke",
+   "first_seen": "2026-09-26 06:20:48",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1932857"
+  },
+  {
+   "ioc": "tftp2.sh",
+   "family": "Mirai",
+   "first_seen": "2026-09-16 06:24:35",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1920900"
+  },
+  {
+   "ioc": "irispoint.cc",
+   "family": "ACR Stealer",
+   "first_seen": "2026-09-26 08:56:51",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934591"
+  },
+  {
+   "ioc": "trokuni412.icu",
+   "family": "IClickFix",
+   "first_seen": "2026-09-14 16:53:24",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1917894"
+  },
+  {
+   "ioc": "mesa-zaimmuen.life",
+   "family": "IClickFix",
+   "first_seen": "2026-09-25 17:28:13",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1934188"
+  },
+  {
+   "ioc": "kiln-skioi-c29up.com",
+   "family": "IClickFix",
+   "first_seen": "2026-09-19 09:06:06",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1924393"
+  },
+  {
+   "ioc": "krestmoais-reed.life",
+   "family": "IClickFix",
+   "first_seen": "2026-09-23 16:44:26",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1930849"
+  },
+  {
+   "ioc": "gpixx.xyz",
+   "family": "IClickFix",
+   "first_seen": "2026-09-14 16:53:23",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1917887"
+  },
+  {
+   "ioc": "myauroracare.com",
+   "family": "Unknown malware",
+   "first_seen": "2026-09-24 18:42:13",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1932382"
+  },
+  {
+   "ioc": "meritphilips.fans",
+   "family": "Cobalt Strike",
+   "first_seen": "2026-09-22 13:47:44",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1927371"
+  },
+  {
+   "ioc": "bdducts.click",
+   "family": "Remus",
+   "first_seen": "2026-09-25 06:28:03",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1932575"
+  },
+  {
+   "ioc": "heaucts.click",
+   "family": "Unknown malware",
+   "first_seen": "2026-09-24 22:49:18",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1932474"
+  },
+  {
+   "ioc": "sableyard.cc",
+   "family": "ACR Stealer",
+   "first_seen": "2026-09-26 08:47:26",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934554"
+  },
+  {
+   "ioc": "gingerfall.cc",
+   "family": "ACR Stealer",
+   "first_seen": "2026-09-26 08:56:51",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934584"
+  },
+  {
+   "ioc": "brightloop.cc",
+   "family": "ACR Stealer",
+   "first_seen": "2026-09-26 08:56:51",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934564"
+  },
+  {
+   "ioc": "targetstore.cc",
+   "family": "ACR Stealer",
+   "first_seen": "2026-09-26 08:48:24",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934556"
+  },
+  {
+   "ioc": "cinderlake.cc",
+   "family": "ACR Stealer",
+   "first_seen": "2026-09-26 08:56:51",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934571"
+  },
+  {
+   "ioc": "elmquarry.cc",
+   "family": "ACR Stealer",
+   "first_seen": "2026-09-26 08:56:51",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934580"
+  },
+  {
+   "ioc": "check1.judicica1n",
+   "family": "Cobalt Strike",
+   "first_seen": "2026-08-30 19:46:45",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1891546"
+  },
+  {
+   "ioc": "networkness.com",
+   "family": "Cobalt Strike",
+   "first_seen": "2026-09-12 03:47:11",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1915523"
+  },
+  {
+   "ioc": "complianceportals.com",
+   "family": "Cobalt Strike",
+   "first_seen": "2026-09-20 13:47:35",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1924902"
+  },
+  {
+   "ioc": "fforket.shop",
+   "family": "Unknown malware",
+   "first_seen": "2026-09-24 22:49:18",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1932473"
+  },
+  {
+   "ioc": "dockmemoir.co",
+   "family": "SmartApeSG",
+   "first_seen": "2026-09-25 14:01:36",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1932835"
+  },
+  {
+   "ioc": "tryclix.com",
+   "family": "MacSync",
+   "first_seen": "2026-09-26 06:20:19",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1934388"
+  },
+  {
+   "ioc": "maple30.com",
+   "family": "AMOS",
+   "first_seen": "2026-09-26 07:45:04",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1934527"
+  },
+  {
+   "ioc": "ninjamysticblade.cfd",
+   "family": "Lumma Stealer",
+   "first_seen": "2026-09-26 06:20:43",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1934156"
+  },
+  {
+   "ioc": "cdn-js-conhost.icu",
+   "family": "Unknown Stealer",
+   "first_seen": "2026-09-25 18:26:35",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1934261"
+  },
+  {
+   "ioc": "blancharl.icu",
+   "family": "KongTuke",
+   "first_seen": "2026-09-24 12:35:41",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1932248"
+  },
+  {
+   "ioc": "aprilrecactivepro.org",
+   "family": "Unknown malware",
+   "first_seen": "2026-09-26 06:20:25",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934316"
+  },
+  {
+   "ioc": "fontawesome-cdn.cfd",
+   "family": "Unknown Stealer",
+   "first_seen": "2026-09-25 18:26:36",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1934262"
+  },
+  {
+   "ioc": "quillchant14.com",
+   "family": "AMOS",
+   "first_seen": "2026-09-26 06:20:42",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1934163"
+  },
+  {
+   "ioc": "delta-canvas.com",
+   "family": "AMOS",
+   "first_seen": "2026-09-24 12:56:36",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1932262"
+  },
+  {
+   "ioc": "leebin101.com",
+   "family": "SnappyClient",
+   "first_seen": "2026-09-25 06:28:02",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1932577"
+  },
+  {
+   "ioc": "courtoos.icu",
+   "family": "KongTuke",
+   "first_seen": "2026-09-24 13:14:43",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1932277"
+  },
+  {
+   "ioc": "sdn-cloudflare-js-css.cfd",
+   "family": "Unknown Stealer",
+   "first_seen": "2026-09-25 18:26:37",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1934263"
+  },
+  {
+   "ioc": "barthvertex.com",
+   "family": "Cobalt Strike",
+   "first_seen": "2026-09-22 21:47:07",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1928029"
+  },
+  {
+   "ioc": "journey-5.com",
+   "family": "AMOS",
+   "first_seen": "2026-09-26 06:20:40",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934164"
+  },
+  {
+   "ioc": "qaqfahai.com",
+   "family": "AsyncRAT",
+   "first_seen": "2026-09-25 08:10:33",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1932723"
+  },
+  {
+   "ioc": "capricecapitalpartners.com",
+   "family": "MacSync",
+   "first_seen": "2026-09-26 06:20:16",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934392"
+  },
+  {
+   "ioc": "sdn-cloudflare-js.cfd",
+   "family": "Unknown Stealer",
+   "first_seen": "2026-09-25 18:26:37",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1934264"
+  },
+  {
+   "ioc": "gemscocl.com",
+   "family": "Lumma Stealer",
+   "first_seen": "2026-09-26 06:20:46",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1933389"
+  },
+  {
+   "ioc": "candxai.com",
+   "family": "Cobalt Strike",
+   "first_seen": "2026-09-17 03:47:45",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1921455"
+  },
+  {
+   "ioc": "astroflowsystems.lol",
+   "family": "Lumma Stealer",
+   "first_seen": "2026-09-26 06:20:45",
+   "threat_type": "payload_delivery",
+   "threatfox_id": "1933412"
+  },
+  {
+   "ioc": "orospucocu.sbs",
+   "family": "Unknown RAT",
+   "first_seen": "2026-09-26 06:20:21",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934367"
+  },
+  {
+   "ioc": "beliefdesk.xyz",
+   "family": "Unknown Loader",
+   "first_seen": "2026-09-26 08:19:55",
+   "threat_type": "botnet_cc",
+   "threatfox_id": "1934545"
+  }
+ ]
+}

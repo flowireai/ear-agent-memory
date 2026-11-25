@@ -1,0 +1,2852 @@
+{
+ "ip:45.88.186.207": {
+  "stats": {
+   "malicious": 8,
+   "suspicious": 2,
+   "undetected": 31,
+   "harmless": 50,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:29:53.818627+00:00"
+ },
+ "ip:45.88.186.208": {
+  "stats": {
+   "malicious": 2,
+   "suspicious": 2,
+   "undetected": 35,
+   "harmless": 52,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:30:11.112641+00:00"
+ },
+ "ip:45.88.186.206": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:30:27.565703+00:00"
+ },
+ "ip:104.239.66.26": {
+  "stats": {
+   "malicious": 6,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 51,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:30:44.001042+00:00"
+ },
+ "ip:104.239.66.27": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 1,
+   "undetected": 90,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:31:00.421529+00:00"
+ },
+ "ip:104.239.66.25": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:31:17.262509+00:00"
+ },
+ "ip:89.125.13.158": {
+  "stats": {
+   "malicious": 3,
+   "suspicious": 2,
+   "undetected": 34,
+   "harmless": 52,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:31:33.820964+00:00"
+ },
+ "ip:5.104.86.108": {
+  "stats": {
+   "malicious": 12,
+   "suspicious": 2,
+   "undetected": 30,
+   "harmless": 47,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:31:50.556834+00:00"
+ },
+ "ip:5.104.86.109": {
+  "stats": {
+   "malicious": 1,
+   "suspicious": 2,
+   "undetected": 35,
+   "harmless": 53,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:32:07.038182+00:00"
+ },
+ "ip:5.104.86.107": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 1,
+   "undetected": 90,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:32:23.586250+00:00"
+ },
+ "ip:5.104.86.110": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:32:40.002469+00:00"
+ },
+ "ip:56.69.248.141": {
+  "stats": {
+   "malicious": 6,
+   "suspicious": 2,
+   "undetected": 32,
+   "harmless": 51,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:32:57.067910+00:00"
+ },
+ "ip:56.69.248.142": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:33:13.574834+00:00"
+ },
+ "ip:68.178.202.150": {
+  "stats": {
+   "malicious": 15,
+   "suspicious": 1,
+   "undetected": 31,
+   "harmless": 44,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:33:30.011886+00:00"
+ },
+ "ip:68.178.202.151": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:33:46.446241+00:00"
+ },
+ "ip:217.60.195.50": {
+  "stats": {
+   "malicious": 15,
+   "suspicious": 0,
+   "undetected": 31,
+   "harmless": 45,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:34:02.869922+00:00"
+ },
+ "ip:217.60.195.51": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:34:19.290897+00:00"
+ },
+ "ip:81.70.21.163": {
+  "stats": {
+   "malicious": 6,
+   "suspicious": 1,
+   "undetected": 35,
+   "harmless": 49,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:34:35.882119+00:00"
+ },
+ "ip:81.70.21.164": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:34:52.771920+00:00"
+ },
+ "ip:106.54.201.103": {
+  "stats": {
+   "malicious": 6,
+   "suspicious": 1,
+   "undetected": 33,
+   "harmless": 51,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:35:09.229339+00:00"
+ },
+ "ip:106.54.201.104": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:35:25.644961+00:00"
+ },
+ "ip:192.241.151.6": {
+  "stats": {
+   "malicious": 5,
+   "suspicious": 2,
+   "undetected": 32,
+   "harmless": 52,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:35:42.048137+00:00"
+ },
+ "ip:192.241.151.7": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:35:58.476810+00:00"
+ },
+ "ip:38.54.13.48": {
+  "stats": {
+   "malicious": 8,
+   "suspicious": 0,
+   "undetected": 33,
+   "harmless": 50,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:36:14.909423+00:00"
+ },
+ "ip:38.54.13.49": {
+  "stats": {
+   "malicious": 1,
+   "suspicious": 0,
+   "undetected": 37,
+   "harmless": 53,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:36:31.342662+00:00"
+ },
+ "ip:38.54.13.47": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:36:47.790112+00:00"
+ },
+ "ip:207.56.7.53": {
+  "stats": {
+   "malicious": 5,
+   "suspicious": 2,
+   "undetected": 34,
+   "harmless": 50,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:37:04.204985+00:00"
+ },
+ "ip:207.56.7.54": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:37:20.821359+00:00"
+ },
+ "ip:105.101.131.181": {
+  "stats": {
+   "malicious": 5,
+   "suspicious": 2,
+   "undetected": 34,
+   "harmless": 50,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:37:37.227614+00:00"
+ },
+ "ip:105.101.131.182": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:37:53.633032+00:00"
+ },
+ "ip:154.37.213.27": {
+  "stats": {
+   "malicious": 12,
+   "suspicious": 1,
+   "undetected": 31,
+   "harmless": 47,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:38:10.430801+00:00"
+ },
+ "ip:154.37.213.28": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:38:26.894634+00:00"
+ },
+ "ip:154.94.237.203": {
+  "stats": {
+   "malicious": 5,
+   "suspicious": 2,
+   "undetected": 32,
+   "harmless": 52,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:38:43.340550+00:00"
+ },
+ "ip:154.94.237.204": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:38:59.755144+00:00"
+ },
+ "ip:213.108.3.84": {
+  "stats": {
+   "malicious": 1,
+   "suspicious": 1,
+   "undetected": 36,
+   "harmless": 53,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:39:16.164143+00:00"
+ },
+ "ip:36.248.232.160": {
+  "stats": {
+   "malicious": 1,
+   "suspicious": 0,
+   "undetected": 38,
+   "harmless": 52,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:39:33.309245+00:00"
+ },
+ "ip:54.199.206.9": {
+  "stats": {
+   "malicious": 5,
+   "suspicious": 2,
+   "undetected": 32,
+   "harmless": 52,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:39:50.889459+00:00"
+ },
+ "ip:54.199.206.10": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:40:07.319759+00:00"
+ },
+ "ip:172.94.18.103": {
+  "stats": {
+   "malicious": 15,
+   "suspicious": 1,
+   "undetected": 29,
+   "harmless": 46,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:40:23.984073+00:00"
+ },
+ "ip:172.94.18.104": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:40:40.379748+00:00"
+ },
+ "ip:196.251.121.124": {
+  "stats": {
+   "malicious": 9,
+   "suspicious": 2,
+   "undetected": 31,
+   "harmless": 49,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:40:56.935745+00:00"
+ },
+ "ip:196.251.121.125": {
+  "stats": {
+   "malicious": 11,
+   "suspicious": 5,
+   "undetected": 30,
+   "harmless": 45,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:41:13.337372+00:00"
+ },
+ "ip:196.251.121.123": {
+  "stats": {
+   "malicious": 9,
+   "suspicious": 6,
+   "undetected": 32,
+   "harmless": 44,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:41:29.777893+00:00"
+ },
+ "ip:196.251.121.126": {
+  "stats": {
+   "malicious": 10,
+   "suspicious": 5,
+   "undetected": 32,
+   "harmless": 44,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:41:46.179199+00:00"
+ },
+ "ip:196.251.121.122": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:42:03.454821+00:00"
+ },
+ "ip:223.109.142.7": {
+  "stats": {
+   "malicious": 14,
+   "suspicious": 2,
+   "undetected": 32,
+   "harmless": 43,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:42:19.967731+00:00"
+ },
+ "ip:223.109.142.8": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:42:36.412771+00:00"
+ },
+ "ip:156.238.120.12": {
+  "stats": {
+   "malicious": 12,
+   "suspicious": 3,
+   "undetected": 30,
+   "harmless": 46,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:42:52.836816+00:00"
+ },
+ "ip:156.238.120.13": {
+  "stats": {
+   "malicious": 5,
+   "suspicious": 1,
+   "undetected": 33,
+   "harmless": 52,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:43:09.324304+00:00"
+ },
+ "ip:156.238.120.11": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:43:25.747779+00:00"
+ },
+ "ip:144.31.6.6": {
+  "stats": {
+   "malicious": 9,
+   "suspicious": 1,
+   "undetected": 32,
+   "harmless": 49,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:43:42.501982+00:00"
+ },
+ "ip:144.31.6.7": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:43:58.922453+00:00"
+ },
+ "ip:38.247.165.127": {
+  "stats": {
+   "malicious": 13,
+   "suspicious": 1,
+   "undetected": 31,
+   "harmless": 46,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:44:15.839907+00:00"
+ },
+ "ip:38.247.165.128": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:44:32.331982+00:00"
+ },
+ "ip:45.125.67.196": {
+  "stats": {
+   "malicious": 15,
+   "suspicious": 0,
+   "undetected": 32,
+   "harmless": 44,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:44:48.976780+00:00"
+ },
+ "ip:45.125.67.197": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:45:05.545184+00:00"
+ },
+ "ip:167.179.67.162": {
+  "stats": {
+   "malicious": 5,
+   "suspicious": 1,
+   "undetected": 34,
+   "harmless": 51,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:45:21.977628+00:00"
+ },
+ "ip:167.179.67.163": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:45:38.394377+00:00"
+ },
+ "ip:193.25.215.37": {
+  "stats": {
+   "malicious": 8,
+   "suspicious": 1,
+   "undetected": 32,
+   "harmless": 50,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:45:55.926196+00:00"
+ },
+ "ip:193.25.215.38": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:46:12.819688+00:00"
+ },
+ "ip:45.86.229.111": {
+  "stats": {
+   "malicious": 14,
+   "suspicious": 1,
+   "undetected": 31,
+   "harmless": 45,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:46:29.282169+00:00"
+ },
+ "ip:45.86.229.112": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:46:45.686294+00:00"
+ },
+ "ip:130.94.42.202": {
+  "stats": {
+   "malicious": 7,
+   "suspicious": 1,
+   "undetected": 32,
+   "harmless": 51,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:47:02.108995+00:00"
+ },
+ "ip:130.94.42.203": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:47:18.592237+00:00"
+ },
+ "ip:176.65.132.207": {
+  "stats": {
+   "malicious": 8,
+   "suspicious": 2,
+   "undetected": 33,
+   "harmless": 48,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:47:35.019137+00:00"
+ },
+ "ip:176.65.132.208": {
+  "stats": {
+   "malicious": 2,
+   "suspicious": 1,
+   "undetected": 35,
+   "harmless": 53,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:47:51.501639+00:00"
+ },
+ "ip:176.65.132.206": {
+  "stats": {
+   "malicious": 12,
+   "suspicious": 1,
+   "undetected": 33,
+   "harmless": 45,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:48:07.922679+00:00"
+ },
+ "ip:176.65.132.209": {
+  "stats": {
+   "malicious": 3,
+   "suspicious": 3,
+   "undetected": 34,
+   "harmless": 51,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:48:24.325714+00:00"
+ },
+ "ip:176.65.132.205": {
+  "stats": {
+   "malicious": 10,
+   "suspicious": 2,
+   "undetected": 33,
+   "harmless": 46,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:48:40.768868+00:00"
+ },
+ "ip:176.65.132.210": {
+  "stats": {
+   "malicious": 8,
+   "suspicious": 2,
+   "undetected": 31,
+   "harmless": 50,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:48:57.158714+00:00"
+ },
+ "ip:176.65.132.204": {
+  "stats": {
+   "malicious": 8,
+   "suspicious": 2,
+   "undetected": 32,
+   "harmless": 49,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:49:13.828150+00:00"
+ },
+ "ip:176.65.132.211": {
+  "stats": {
+   "malicious": 2,
+   "suspicious": 1,
+   "undetected": 34,
+   "harmless": 54,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:49:30.891369+00:00"
+ },
+ "ip:176.65.132.203": {
+  "stats": {
+   "malicious": 1,
+   "suspicious": 2,
+   "undetected": 34,
+   "harmless": 54,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:49:47.389689+00:00"
+ },
+ "ip:176.65.132.212": {
+  "stats": {
+   "malicious": 2,
+   "suspicious": 2,
+   "undetected": 34,
+   "harmless": 53,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:50:03.802790+00:00"
+ },
+ "ip:176.65.132.202": {
+  "stats": {
+   "malicious": 1,
+   "suspicious": 2,
+   "undetected": 33,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:50:21.018195+00:00"
+ },
+ "ip:43.166.68.17": {
+  "stats": {
+   "malicious": 2,
+   "suspicious": 1,
+   "undetected": 36,
+   "harmless": 52,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:50:37.430911+00:00"
+ },
+ "ip:82.165.202.90": {
+  "stats": {
+   "malicious": 5,
+   "suspicious": 2,
+   "undetected": 32,
+   "harmless": 52,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:50:53.897315+00:00"
+ },
+ "ip:82.165.202.91": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:51:10.414831+00:00"
+ },
+ "ip:102.220.160.198": {
+  "stats": {
+   "malicious": 14,
+   "suspicious": 1,
+   "undetected": 33,
+   "harmless": 43,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:51:26.992741+00:00"
+ },
+ "ip:102.220.160.199": {
+  "stats": {
+   "malicious": 6,
+   "suspicious": 4,
+   "undetected": 32,
+   "harmless": 49,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:51:43.447564+00:00"
+ },
+ "ip:102.220.160.197": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:51:59.924816+00:00"
+ },
+ "ip:74.208.146.77": {
+  "stats": {
+   "malicious": 5,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 51,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:52:16.336512+00:00"
+ },
+ "ip:74.208.146.78": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:52:32.782711+00:00"
+ },
+ "ip:102.117.174.189": {
+  "stats": {
+   "malicious": 3,
+   "suspicious": 2,
+   "undetected": 33,
+   "harmless": 53,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:52:49.203801+00:00"
+ },
+ "ip:134.209.223.192": {
+  "stats": {
+   "malicious": 7,
+   "suspicious": 1,
+   "undetected": 32,
+   "harmless": 51,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:53:05.644463+00:00"
+ },
+ "ip:134.209.223.193": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:53:22.084236+00:00"
+ },
+ "ip:220.154.128.196": {
+  "stats": {
+   "malicious": 14,
+   "suspicious": 1,
+   "undetected": 30,
+   "harmless": 46,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:53:38.490351+00:00"
+ },
+ "ip:220.154.128.197": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:53:54.917210+00:00"
+ },
+ "ip:121.41.70.79": {
+  "stats": {
+   "malicious": 7,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 49,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:54:11.322282+00:00"
+ },
+ "ip:121.41.70.80": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:54:28.187250+00:00"
+ },
+ "ip:122.51.212.92": {
+  "stats": {
+   "malicious": 9,
+   "suspicious": 1,
+   "undetected": 32,
+   "harmless": 49,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:54:44.745546+00:00"
+ },
+ "ip:122.51.212.93": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:55:01.178259+00:00"
+ },
+ "ip:78.17.93.96": {
+  "stats": {
+   "malicious": 5,
+   "suspicious": 3,
+   "undetected": 33,
+   "harmless": 50,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:55:18.770051+00:00"
+ },
+ "ip:78.17.93.97": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:55:35.207753+00:00"
+ },
+ "ip:94.237.62.102": {
+  "stats": {
+   "malicious": 8,
+   "suspicious": 1,
+   "undetected": 32,
+   "harmless": 50,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:55:51.780262+00:00"
+ },
+ "ip:94.237.62.103": {
+  "stats": {
+   "malicious": 2,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 54,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:56:08.197357+00:00"
+ },
+ "ip:94.237.62.101": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:56:24.661908+00:00"
+ },
+ "ip:89.126.221.170": {
+  "stats": {
+   "malicious": 8,
+   "suspicious": 1,
+   "undetected": 32,
+   "harmless": 50,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:56:41.145791+00:00"
+ },
+ "ip:89.126.221.171": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:56:58.064462+00:00"
+ },
+ "ip:46.183.223.30": {
+  "stats": {
+   "malicious": 5,
+   "suspicious": 2,
+   "undetected": 32,
+   "harmless": 52,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:57:14.578228+00:00"
+ },
+ "ip:46.183.223.31": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 38,
+   "harmless": 53,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:57:30.990248+00:00"
+ },
+ "ip:177.22.117.74": {
+  "stats": {
+   "malicious": 3,
+   "suspicious": 1,
+   "undetected": 35,
+   "harmless": 52,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:57:47.479342+00:00"
+ },
+ "ip:180.93.115.26": {
+  "stats": {
+   "malicious": 13,
+   "suspicious": 2,
+   "undetected": 31,
+   "harmless": 45,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:58:03.962633+00:00"
+ },
+ "ip:180.93.115.27": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:58:20.367948+00:00"
+ },
+ "ip:37.244.232.113": {
+  "stats": {
+   "malicious": 5,
+   "suspicious": 2,
+   "undetected": 33,
+   "harmless": 51,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:58:36.774941+00:00"
+ },
+ "ip:37.244.232.114": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:58:53.347836+00:00"
+ },
+ "ip:155.103.69.85": {
+  "stats": {
+   "malicious": 15,
+   "suspicious": 0,
+   "undetected": 31,
+   "harmless": 45,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:59:09.752998+00:00"
+ },
+ "ip:155.103.69.86": {
+  "stats": {
+   "malicious": 1,
+   "suspicious": 0,
+   "undetected": 38,
+   "harmless": 52,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:59:26.229030+00:00"
+ },
+ "ip:155.103.69.84": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:59:42.629071+00:00"
+ },
+ "ip:202.61.160.183": {
+  "stats": {
+   "malicious": 15,
+   "suspicious": 1,
+   "undetected": 31,
+   "harmless": 44,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T09:59:59.236278+00:00"
+ },
+ "ip:202.61.160.184": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 1,
+   "undetected": 35,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:00:16.188860+00:00"
+ },
+ "ip:202.61.160.182": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 1,
+   "undetected": 35,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:00:32.621023+00:00"
+ },
+ "ip:202.61.160.185": {
+  "stats": {
+   "malicious": 1,
+   "suspicious": 0,
+   "undetected": 37,
+   "harmless": 53,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:00:49.256826+00:00"
+ },
+ "ip:202.61.160.181": {
+  "stats": {
+   "malicious": 1,
+   "suspicious": 1,
+   "undetected": 37,
+   "harmless": 52,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:01:05.704456+00:00"
+ },
+ "ip:202.61.160.186": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 1,
+   "undetected": 35,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:01:22.136512+00:00"
+ },
+ "ip:202.61.160.180": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 37,
+   "harmless": 54,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:01:38.592658+00:00"
+ },
+ "ip:216.9.224.130": {
+  "stats": {
+   "malicious": 1,
+   "suspicious": 0,
+   "undetected": 37,
+   "harmless": 53,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:01:55.132576+00:00"
+ },
+ "ip:20.175.26.173": {
+  "stats": {
+   "malicious": 2,
+   "suspicious": 1,
+   "undetected": 37,
+   "harmless": 51,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:02:11.549051+00:00"
+ },
+ "ip:77.232.41.119": {
+  "stats": {
+   "malicious": 2,
+   "suspicious": 1,
+   "undetected": 35,
+   "harmless": 53,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:02:27.977956+00:00"
+ },
+ "ip:185.212.128.89": {
+  "stats": {
+   "malicious": 3,
+   "suspicious": 1,
+   "undetected": 34,
+   "harmless": 53,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:02:44.953106+00:00"
+ },
+ "ip:64.84.56.233": {
+  "stats": {
+   "malicious": 5,
+   "suspicious": 2,
+   "undetected": 33,
+   "harmless": 51,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:03:02.230449+00:00"
+ },
+ "ip:64.84.56.234": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:03:19.319712+00:00"
+ },
+ "ip:64.227.59.213": {
+  "stats": {
+   "malicious": 5,
+   "suspicious": 2,
+   "undetected": 33,
+   "harmless": 51,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:03:35.732985+00:00"
+ },
+ "ip:64.227.59.214": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:03:52.149946+00:00"
+ },
+ "ip:143.246.217.103": {
+  "stats": {
+   "malicious": 7,
+   "suspicious": 2,
+   "undetected": 32,
+   "harmless": 50,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:04:08.590287+00:00"
+ },
+ "ip:143.246.217.104": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 1,
+   "undetected": 37,
+   "harmless": 53,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:04:24.980401+00:00"
+ },
+ "ip:143.246.217.102": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:04:41.381909+00:00"
+ },
+ "ip:46.246.6.18": {
+  "stats": {
+   "malicious": 6,
+   "suspicious": 1,
+   "undetected": 33,
+   "harmless": 51,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:04:57.889644+00:00"
+ },
+ "ip:46.246.6.19": {
+  "stats": {
+   "malicious": 3,
+   "suspicious": 1,
+   "undetected": 33,
+   "harmless": 54,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:05:14.320361+00:00"
+ },
+ "ip:46.246.6.17": {
+  "stats": {
+   "malicious": 3,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 53,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:05:30.835350+00:00"
+ },
+ "ip:46.246.6.20": {
+  "stats": {
+   "malicious": 12,
+   "suspicious": 0,
+   "undetected": 32,
+   "harmless": 47,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:05:47.644644+00:00"
+ },
+ "ip:46.246.6.16": {
+  "stats": {
+   "malicious": 6,
+   "suspicious": 1,
+   "undetected": 33,
+   "harmless": 51,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:06:04.330636+00:00"
+ },
+ "ip:46.246.6.21": {
+  "stats": {
+   "malicious": 3,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 53,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:06:20.814998+00:00"
+ },
+ "ip:46.246.6.15": {
+  "stats": {
+   "malicious": 9,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 48,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:06:37.293217+00:00"
+ },
+ "ip:46.246.6.22": {
+  "stats": {
+   "malicious": 5,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 50,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:06:53.739450+00:00"
+ },
+ "ip:46.246.6.14": {
+  "stats": {
+   "malicious": 5,
+   "suspicious": 2,
+   "undetected": 35,
+   "harmless": 49,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:07:10.160503+00:00"
+ },
+ "ip:46.246.6.23": {
+  "stats": {
+   "malicious": 6,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 49,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:07:26.588949+00:00"
+ },
+ "ip:46.246.6.13": {
+  "stats": {
+   "malicious": 15,
+   "suspicious": 0,
+   "undetected": 31,
+   "harmless": 45,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:07:42.999501+00:00"
+ },
+ "ip:194.58.47.81": {
+  "stats": {
+   "malicious": 9,
+   "suspicious": 2,
+   "undetected": 33,
+   "harmless": 47,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:07:59.423073+00:00"
+ },
+ "ip:194.58.47.82": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:08:16.348163+00:00"
+ },
+ "ip:159.223.56.76": {
+  "stats": {
+   "malicious": 3,
+   "suspicious": 2,
+   "undetected": 35,
+   "harmless": 51,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:08:33.232785+00:00"
+ },
+ "ip:206.123.132.166": {
+  "stats": {
+   "malicious": 5,
+   "suspicious": 1,
+   "undetected": 34,
+   "harmless": 51,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:08:49.681000+00:00"
+ },
+ "ip:206.123.132.167": {
+  "stats": {
+   "malicious": 3,
+   "suspicious": 0,
+   "undetected": 37,
+   "harmless": 51,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:09:07.311086+00:00"
+ },
+ "ip:206.123.132.165": {
+  "stats": {
+   "malicious": 2,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 54,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:09:24.231598+00:00"
+ },
+ "ip:206.123.132.168": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:09:40.658893+00:00"
+ },
+ "ip:16.5.7.159": {
+  "stats": {
+   "malicious": 7,
+   "suspicious": 2,
+   "undetected": 34,
+   "harmless": 48,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:09:57.093790+00:00"
+ },
+ "ip:16.5.7.160": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:10:13.524963+00:00"
+ },
+ "ip:194.26.192.168": {
+  "stats": {
+   "malicious": 11,
+   "suspicious": 3,
+   "undetected": 28,
+   "harmless": 49,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:10:29.962281+00:00"
+ },
+ "ip:194.26.192.169": {
+  "stats": {
+   "malicious": 2,
+   "suspicious": 3,
+   "undetected": 33,
+   "harmless": 53,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:10:46.415682+00:00"
+ },
+ "ip:194.26.192.167": {
+  "stats": {
+   "malicious": 5,
+   "suspicious": 1,
+   "undetected": 31,
+   "harmless": 54,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:11:02.842724+00:00"
+ },
+ "ip:194.26.192.170": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:11:19.257245+00:00"
+ },
+ "ip:128.90.103.171": {
+  "stats": {
+   "malicious": 1,
+   "suspicious": 1,
+   "undetected": 35,
+   "harmless": 54,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:11:35.713964+00:00"
+ },
+ "ip:94.250.167.221": {
+  "stats": {
+   "malicious": 7,
+   "suspicious": 1,
+   "undetected": 34,
+   "harmless": 49,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:11:52.160875+00:00"
+ },
+ "ip:94.250.167.222": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:12:08.614452+00:00"
+ },
+ "ip:217.217.97.164": {
+  "stats": {
+   "malicious": 11,
+   "suspicious": 1,
+   "undetected": 32,
+   "harmless": 47,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:12:25.033225+00:00"
+ },
+ "ip:217.217.97.165": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:12:41.443407+00:00"
+ },
+ "domain:imersion4cf.site": {
+  "stats": {
+   "malicious": 3,
+   "suspicious": 1,
+   "undetected": 36,
+   "harmless": 51,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:12:57.852448+00:00"
+ },
+ "domain:dovewick.cc": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:13:14.320814+00:00"
+ },
+ "domain:bramblefox.cc": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:13:31.216301+00:00"
+ },
+ "domain:hexforge.cc": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:13:47.599661+00:00"
+ },
+ "domain:buysypi831.life": {
+  "stats": {
+   "malicious": 14,
+   "suspicious": 3,
+   "undetected": 31,
+   "harmless": 43,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:14:04.061665+00:00"
+ },
+ "domain:buysypi831.com": {
+  "stats": null,
+  "queried_at": "2026-09-26T10:14:20.536348+00:00"
+ },
+ "domain:buysypi831.net": {
+  "stats": null,
+  "queried_at": "2026-09-26T10:14:37.287891+00:00"
+ },
+ "domain:buysypi831.org": {
+  "stats": null,
+  "queried_at": "2026-09-26T10:14:53.792582+00:00"
+ },
+ "domain:buysypi831.io": {
+  "stats": null,
+  "queried_at": "2026-09-26T10:15:10.971193+00:00"
+ },
+ "domain:buysypi831.co": {
+  "stats": null,
+  "queried_at": "2026-09-26T10:15:27.439672+00:00"
+ },
+ "domain:buysypi831.info": {
+  "stats": null,
+  "queried_at": "2026-09-26T10:15:43.875864+00:00"
+ },
+ "domain:hemlockbay.cc": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:16:01.316030+00:00"
+ },
+ "domain:coral-weave-wren-veis.com": {
+  "stats": {
+   "malicious": 3,
+   "suspicious": 1,
+   "undetected": 33,
+   "harmless": 54,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:16:17.793375+00:00"
+ },
+ "domain:wrdn.su": {
+  "stats": {
+   "malicious": 1,
+   "suspicious": 3,
+   "undetected": 35,
+   "harmless": 52,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:16:34.309421+00:00"
+ },
+ "domain:peddlingconjure.cc": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:16:50.762176+00:00"
+ },
+ "domain:voyag413.xyz": {
+  "stats": {
+   "malicious": 13,
+   "suspicious": 2,
+   "undetected": 31,
+   "harmless": 45,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:17:33.020379+00:00"
+ },
+ "domain:voyag413.com": {
+  "stats": null,
+  "queried_at": "2026-09-26T10:17:50.171142+00:00"
+ },
+ "domain:journey-5.com": {
+  "stats": {
+   "malicious": 1,
+   "suspicious": 1,
+   "undetected": 36,
+   "harmless": 53,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:18:06.597529+00:00"
+ },
+ "domain:gingerfall.cc": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:18:23.053457+00:00"
+ },
+ "domain:dollllar881122.icu": {
+  "stats": {
+   "malicious": 14,
+   "suspicious": 2,
+   "undetected": 30,
+   "harmless": 45,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:18:39.502324+00:00"
+ },
+ "domain:dollllar881122.com": {
+  "stats": null,
+  "queried_at": "2026-09-26T10:18:55.910782+00:00"
+ },
+ "domain:costum342183.life": {
+  "stats": {
+   "malicious": 8,
+   "suspicious": 1,
+   "undetected": 35,
+   "harmless": 47,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:19:12.362597+00:00"
+ },
+ "domain:costum342183.com": {
+  "stats": null,
+  "queried_at": "2026-09-26T10:19:28.795771+00:00"
+ },
+ "domain:checkms5.cc": {
+  "stats": {
+   "malicious": 1,
+   "suspicious": 1,
+   "undetected": 37,
+   "harmless": 52,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:19:46.235668+00:00"
+ },
+ "domain:cabskaiyn-crane.life": {
+  "stats": {
+   "malicious": 2,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:20:02.825816+00:00"
+ },
+ "domain:analysis-id-lfg.info": {
+  "stats": {
+   "malicious": 20,
+   "suspicious": 1,
+   "undetected": 30,
+   "harmless": 40,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:20:19.277871+00:00"
+ },
+ "domain:analysis-id-lfg.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:20:35.793624+00:00"
+ },
+ "domain:frostmere.cc": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:20:52.237977+00:00"
+ },
+ "domain:clovermark.cc": {
+  "stats": {
+   "malicious": 1,
+   "suspicious": 1,
+   "undetected": 35,
+   "harmless": 54,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:21:09.103598+00:00"
+ },
+ "domain:brightloop.cc": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:21:25.540878+00:00"
+ },
+ "domain:fingerprint-veri.info": {
+  "stats": {
+   "malicious": 24,
+   "suspicious": 1,
+   "undetected": 28,
+   "harmless": 38,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:21:42.322220+00:00"
+ },
+ "domain:fingerprint-veri.com": {
+  "stats": null,
+  "queried_at": "2026-09-26T10:21:59.022871+00:00"
+ },
+ "domain:fingerprint-verification.info": {
+  "stats": {
+   "malicious": 21,
+   "suspicious": 2,
+   "undetected": 29,
+   "harmless": 39,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:22:15.408257+00:00"
+ },
+ "domain:fingerprint-verification.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:22:31.839880+00:00"
+ },
+ "domain:workworm1412.buzz": {
+  "stats": {
+   "malicious": 13,
+   "suspicious": 2,
+   "undetected": 32,
+   "harmless": 44,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:22:48.352130+00:00"
+ },
+ "domain:bytestreem.cc": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:25:36.211011+00:00"
+ },
+ "domain:workworm1412.com": {
+  "stats": null,
+  "queried_at": "2026-09-26T10:25:52.627389+00:00"
+ },
+ "domain:sdn-cloudflare-js-css.click": {
+  "stats": {
+   "malicious": 13,
+   "suspicious": 1,
+   "undetected": 31,
+   "harmless": 46,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:26:09.062189+00:00"
+ },
+ "domain:sdn-cloudflare-js-css.com": {
+  "stats": null,
+  "queried_at": "2026-09-26T10:26:26.016287+00:00"
+ },
+ "domain:pixelinsights.xyz": {
+  "stats": {
+   "malicious": 13,
+   "suspicious": 2,
+   "undetected": 32,
+   "harmless": 44,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:26:42.818838+00:00"
+ },
+ "domain:pixelinsights.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 43,
+   "harmless": 48,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:26:59.208881+00:00"
+ },
+ "domain:trilliot6776.icu": {
+  "stats": {
+   "malicious": 6,
+   "suspicious": 4,
+   "undetected": 33,
+   "harmless": 48,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:27:15.658424+00:00"
+ },
+ "domain:trilliot6776.com": {
+  "stats": null,
+  "queried_at": "2026-09-26T10:27:32.062513+00:00"
+ },
+ "domain:ninjamysticblade.cfd": {
+  "stats": {
+   "malicious": 3,
+   "suspicious": 4,
+   "undetected": 34,
+   "harmless": 50,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:27:48.497394+00:00"
+ },
+ "domain:nick-metry.icu": {
+  "stats": {
+   "malicious": 16,
+   "suspicious": 2,
+   "undetected": 31,
+   "harmless": 42,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:28:05.930152+00:00"
+ },
+ "domain:nick-metry.com": {
+  "stats": null,
+  "queried_at": "2026-09-26T10:28:22.500526+00:00"
+ },
+ "domain:kiln-skioi-c29up.com": {
+  "stats": {
+   "malicious": 4,
+   "suspicious": 2,
+   "undetected": 32,
+   "harmless": 53,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:28:39.289816+00:00"
+ },
+ "domain:elmquarry.cc": {
+  "stats": {
+   "malicious": 1,
+   "suspicious": 1,
+   "undetected": 36,
+   "harmless": 53,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:28:56.216310+00:00"
+ },
+ "domain:boulderleaf.cc": {
+  "stats": {
+   "malicious": 1,
+   "suspicious": 1,
+   "undetected": 37,
+   "harmless": 52,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:29:13.154965+00:00"
+ },
+ "domain:trombler312.life": {
+  "stats": {
+   "malicious": 9,
+   "suspicious": 1,
+   "undetected": 32,
+   "harmless": 49,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:29:29.599807+00:00"
+ },
+ "domain:trombler312.com": {
+  "stats": null,
+  "queried_at": "2026-09-26T10:29:46.038314+00:00"
+ },
+ "domain:humiliatepreseason.cc": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:30:02.544638+00:00"
+ },
+ "domain:sdn-cloudflare-js-css.cfd": {
+  "stats": {
+   "malicious": 15,
+   "suspicious": 4,
+   "undetected": 29,
+   "harmless": 43,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:30:19.023954+00:00"
+ },
+ "domain:vaer-cdn-3.sbs": {
+  "stats": {
+   "malicious": 14,
+   "suspicious": 2,
+   "undetected": 31,
+   "harmless": 44,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:30:35.461975+00:00"
+ },
+ "domain:vaer-cdn-3.com": {
+  "stats": null,
+  "queried_at": "2026-09-26T10:30:52.216094+00:00"
+ },
+ "domain:online-r.com": {
+  "stats": {
+   "malicious": 9,
+   "suspicious": 4,
+   "undetected": 32,
+   "harmless": 46,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:31:08.624045+00:00"
+ },
+ "domain:online-r.net": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:31:25.424612+00:00"
+ },
+ "domain:authorization-id-code.info": {
+  "stats": {
+   "malicious": 22,
+   "suspicious": 2,
+   "undetected": 29,
+   "harmless": 38,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:31:41.877219+00:00"
+ },
+ "domain:authorization-id-code.com": {
+  "stats": null,
+  "queried_at": "2026-09-26T10:31:58.330997+00:00"
+ },
+ "domain:logicbyte.cc": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:32:14.748465+00:00"
+ },
+ "domain:webpulsedata.icu": {
+  "stats": {
+   "malicious": 14,
+   "suspicious": 1,
+   "undetected": 33,
+   "harmless": 43,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:32:32.088672+00:00"
+ },
+ "domain:webpulsedata.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:32:48.539174+00:00"
+ },
+ "domain:pagestatix.icu": {
+  "stats": {
+   "malicious": 15,
+   "suspicious": 1,
+   "undetected": 33,
+   "harmless": 42,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:33:04.989503+00:00"
+ },
+ "domain:pagestatix.com": {
+  "stats": null,
+  "queried_at": "2026-09-26T10:33:21.425976+00:00"
+ },
+ "domain:id-verif-code.info": {
+  "stats": {
+   "malicious": 22,
+   "suspicious": 0,
+   "undetected": 29,
+   "harmless": 40,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:33:37.872540+00:00"
+ },
+ "domain:id-verif-code.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 38,
+   "harmless": 53,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:33:54.670695+00:00"
+ },
+ "domain:nstv-css-styles-19.sbs": {
+  "stats": {
+   "malicious": 14,
+   "suspicious": 0,
+   "undetected": 32,
+   "harmless": 45,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:34:12.324119+00:00"
+ },
+ "domain:nstv-css-styles-19.com": {
+  "stats": null,
+  "queried_at": "2026-09-26T10:34:28.741391+00:00"
+ },
+ "domain:cdn-clodflare-fotns.cfd": {
+  "stats": {
+   "malicious": 12,
+   "suspicious": 2,
+   "undetected": 29,
+   "harmless": 48,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:34:45.591860+00:00"
+ },
+ "domain:cdn-clodflare-fotns.com": {
+  "stats": null,
+  "queried_at": "2026-09-26T10:35:02.008513+00:00"
+ },
+ "domain:sable-orbit-wren-fiayn.live": {
+  "stats": {
+   "malicious": 4,
+   "suspicious": 4,
+   "undetected": 33,
+   "harmless": 50,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:35:18.498581+00:00"
+ },
+ "domain:meritphilips.fans": {
+  "stats": {
+   "malicious": 6,
+   "suspicious": 2,
+   "undetected": 34,
+   "harmless": 49,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:35:34.910498+00:00"
+ },
+ "domain:meritphilips.com": {
+  "stats": null,
+  "queried_at": "2026-09-26T10:35:51.371163+00:00"
+ },
+ "domain:grove-kaee-j4jgh.lol": {
+  "stats": {
+   "malicious": 2,
+   "suspicious": 3,
+   "undetected": 35,
+   "harmless": 51,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:36:07.884021+00:00"
+ },
+ "domain:cdn-js-conhost.click": {
+  "stats": {
+   "malicious": 13,
+   "suspicious": 2,
+   "undetected": 33,
+   "harmless": 43,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:36:24.309029+00:00"
+ },
+ "domain:cdn-js-conhost.com": {
+  "stats": null,
+  "queried_at": "2026-09-26T10:36:40.755517+00:00"
+ },
+ "domain:junebrook.cc": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:36:57.223472+00:00"
+ },
+ "domain:dockmemoir.co": {
+  "stats": {
+   "malicious": 11,
+   "suspicious": 1,
+   "undetected": 32,
+   "harmless": 47,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:37:13.619024+00:00"
+ },
+ "domain:dockmemoir.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:37:30.032639+00:00"
+ },
+ "domain:gpixx.xyz": {
+  "stats": {
+   "malicious": 13,
+   "suspicious": 1,
+   "undetected": 31,
+   "harmless": 46,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:37:46.478682+00:00"
+ },
+ "domain:gpixx.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:38:02.922619+00:00"
+ },
+ "domain:tftp2.sh": {
+  "stats": {
+   "malicious": 4,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 52,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:38:19.328752+00:00"
+ },
+ "domain:lowenbay.cc": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:38:35.733097+00:00"
+ },
+ "domain:googlanalitlcs.icu": {
+  "stats": {
+   "malicious": 18,
+   "suspicious": 0,
+   "undetected": 30,
+   "harmless": 43,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:38:52.344886+00:00"
+ },
+ "domain:googlanalitlcs.com": {
+  "stats": null,
+  "queried_at": "2026-09-26T10:39:08.847569+00:00"
+ },
+ "domain:kittiesmc.com": {
+  "stats": {
+   "malicious": 15,
+   "suspicious": 2,
+   "undetected": 30,
+   "harmless": 44,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:39:25.265099+00:00"
+ },
+ "domain:kittiesmc.net": {
+  "stats": {
+   "malicious": 2,
+   "suspicious": 1,
+   "undetected": 36,
+   "harmless": 52,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:39:41.700706+00:00"
+ },
+ "domain:kittiesmc.org": {
+  "stats": null,
+  "queried_at": "2026-09-26T10:39:58.134423+00:00"
+ },
+ "domain:buildcraft.cc": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:40:14.735827+00:00"
+ },
+ "domain:cdn-js-conhost.icu": {
+  "stats": {
+   "malicious": 9,
+   "suspicious": 3,
+   "undetected": 32,
+   "harmless": 47,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:40:31.498636+00:00"
+ },
+ "domain:cleverstack.cc": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:40:47.907659+00:00"
+ },
+ "domain:duskmoor.cc": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:41:04.643828+00:00"
+ },
+ "domain:sableyard.cc": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:41:21.060623+00:00"
+ },
+ "domain:bytestream.cc": {
+  "stats": {
+   "malicious": 1,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:41:37.484011+00:00"
+ },
+ "domain:cdn-2faclov.sbs": {
+  "stats": {
+   "malicious": 1,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:41:53.925265+00:00"
+ },
+ "domain:webgleam.info": {
+  "stats": {
+   "malicious": 13,
+   "suspicious": 4,
+   "undetected": 30,
+   "harmless": 44,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:42:10.902214+00:00"
+ },
+ "domain:webgleam.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:42:27.762131+00:00"
+ },
+ "domain:koalafield.cc": {
+  "stats": {
+   "malicious": 1,
+   "suspicious": 1,
+   "undetected": 37,
+   "harmless": 52,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:42:44.210057+00:00"
+ },
+ "domain:aleverifocation.beer": {
+  "stats": {
+   "malicious": 20,
+   "suspicious": 1,
+   "undetected": 29,
+   "harmless": 41,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:43:02.377346+00:00"
+ },
+ "domain:aleverifocation.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:43:18.814097+00:00"
+ },
+ "domain:metricvault.icu": {
+  "stats": {
+   "malicious": 14,
+   "suspicious": 0,
+   "undetected": 33,
+   "harmless": 44,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:43:35.236353+00:00"
+ },
+ "domain:metricvault.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:43:51.669739+00:00"
+ },
+ "domain:myauroracare.com": {
+  "stats": {
+   "malicious": 4,
+   "suspicious": 2,
+   "undetected": 32,
+   "harmless": 53,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:44:08.099547+00:00"
+ },
+ "domain:bigsmart.beer": {
+  "stats": {
+   "malicious": 15,
+   "suspicious": 2,
+   "undetected": 32,
+   "harmless": 42,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:44:24.519779+00:00"
+ },
+ "domain:bigsmart.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:44:40.951378+00:00"
+ },
+ "domain:bloodhorn8123.icu": {
+  "stats": {
+   "malicious": 15,
+   "suspicious": 3,
+   "undetected": 31,
+   "harmless": 42,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:44:58.300512+00:00"
+ },
+ "domain:bloodhorn8123.com": {
+  "stats": null,
+  "queried_at": "2026-09-26T10:45:14.739981+00:00"
+ },
+ "domain:enter-press-cdn.info": {
+  "stats": {
+   "malicious": 18,
+   "suspicious": 2,
+   "undetected": 29,
+   "harmless": 42,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:45:31.155329+00:00"
+ },
+ "domain:enter-press-cdn.com": {
+  "stats": {
+   "malicious": 12,
+   "suspicious": 3,
+   "undetected": 31,
+   "harmless": 45,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:45:47.590496+00:00"
+ },
+ "domain:enter-press-cdn.net": {
+  "stats": null,
+  "queried_at": "2026-09-26T10:46:04.074670+00:00"
+ },
+ "domain:networkness.com": {
+  "stats": {
+   "malicious": 20,
+   "suspicious": 2,
+   "undetected": 31,
+   "harmless": 38,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:46:20.591592+00:00"
+ },
+ "domain:networkness.net": {
+  "stats": null,
+  "queried_at": "2026-09-26T10:46:37.357887+00:00"
+ },
+ "domain:acornvista.cc": {
+  "stats": {
+   "malicious": 1,
+   "suspicious": 1,
+   "undetected": 36,
+   "harmless": 53,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:46:55.650327+00:00"
+ },
+ "domain:web-analyzer-serv32.com": {
+  "stats": {
+   "malicious": 14,
+   "suspicious": 4,
+   "undetected": 33,
+   "harmless": 40,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:47:12.104704+00:00"
+ },
+ "domain:web-analyzer-serv32.net": {
+  "stats": null,
+  "queried_at": "2026-09-26T10:47:28.531283+00:00"
+ },
+ "domain:cloudbyt.cc": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:47:44.957221+00:00"
+ },
+ "domain:krestmoais-reed.life": {
+  "stats": {
+   "malicious": 10,
+   "suspicious": 1,
+   "undetected": 33,
+   "harmless": 47,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:48:01.379376+00:00"
+ },
+ "domain:krestmoais-reed.com": {
+  "stats": null,
+  "queried_at": "2026-09-26T10:48:17.826224+00:00"
+ },
+ "domain:garnetmill.cc": {
+  "stats": {
+   "malicious": 1,
+   "suspicious": 1,
+   "undetected": 37,
+   "harmless": 52,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:48:34.226576+00:00"
+ },
+ "domain:verifyrecapcha.info": {
+  "stats": {
+   "malicious": 18,
+   "suspicious": 3,
+   "undetected": 29,
+   "harmless": 41,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:48:50.767665+00:00"
+ },
+ "domain:verifyrecapcha.com": {
+  "stats": null,
+  "queried_at": "2026-09-26T10:49:07.195699+00:00"
+ },
+ "domain:istile-c-cloud.beer": {
+  "stats": {
+   "malicious": 15,
+   "suspicious": 2,
+   "undetected": 31,
+   "harmless": 43,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:49:23.609070+00:00"
+ },
+ "domain:istile-c-cloud.com": {
+  "stats": null,
+  "queried_at": "2026-09-26T10:49:40.612053+00:00"
+ },
+ "domain:cdnjsdelivr.beer": {
+  "stats": {
+   "malicious": 16,
+   "suspicious": 3,
+   "undetected": 30,
+   "harmless": 42,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:49:57.023829+00:00"
+ },
+ "domain:cdnjsdelivr.com": {
+  "stats": {
+   "malicious": 15,
+   "suspicious": 0,
+   "undetected": 31,
+   "harmless": 45,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:50:13.451083+00:00"
+ },
+ "domain:cdnjsdelivr.net": {
+  "stats": {
+   "malicious": 1,
+   "suspicious": 1,
+   "undetected": 34,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:50:29.912184+00:00"
+ },
+ "domain:cdnjsdelivr.org": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 33,
+   "harmless": 58,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:50:46.427239+00:00"
+ },
+ "domain:interseq.at": {
+  "stats": {
+   "malicious": 18,
+   "suspicious": 1,
+   "undetected": 28,
+   "harmless": 44,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:51:02.837123+00:00"
+ },
+ "domain:interseq.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 39,
+   "harmless": 52,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:51:19.327980+00:00"
+ },
+ "domain:tulipstone.cc": {
+  "stats": {
+   "malicious": 6,
+   "suspicious": 3,
+   "undetected": 33,
+   "harmless": 49,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:51:35.770085+00:00"
+ },
+ "domain:tulipstone.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 37,
+   "harmless": 54,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:51:52.204557+00:00"
+ },
+ "domain:kineticnode.shop": {
+  "stats": {
+   "malicious": 1,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:52:08.725818+00:00"
+ },
+ "domain:indigowell.cc": {
+  "stats": {
+   "malicious": 6,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 50,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:52:25.146839+00:00"
+ },
+ "domain:indigowell.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:52:41.581355+00:00"
+ },
+ "domain:bdducts.click": {
+  "stats": {
+   "malicious": 4,
+   "suspicious": 1,
+   "undetected": 34,
+   "harmless": 52,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:52:58.312520+00:00"
+ },
+ "domain:fern-crane-ziankroaum.life": {
+  "stats": {
+   "malicious": 7,
+   "suspicious": 0,
+   "undetected": 33,
+   "harmless": 51,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:53:14.718285+00:00"
+ },
+ "domain:fern-crane-ziankroaum.com": {
+  "stats": null,
+  "queried_at": "2026-09-26T10:53:31.126743+00:00"
+ },
+ "domain:speedpi12321.xyz": {
+  "stats": {
+   "malicious": 14,
+   "suspicious": 3,
+   "undetected": 31,
+   "harmless": 43,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:53:47.575582+00:00"
+ },
+ "domain:speedpi12321.com": {
+  "stats": null,
+  "queried_at": "2026-09-26T10:54:04.846531+00:00"
+ },
+ "domain:girlsonpi823.life": {
+  "stats": {
+   "malicious": 14,
+   "suspicious": 4,
+   "undetected": 30,
+   "harmless": 43,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:54:21.287665+00:00"
+ },
+ "domain:girlsonpi823.com": {
+  "stats": null,
+  "queried_at": "2026-09-26T10:54:37.703981+00:00"
+ },
+ "domain:auth-code-verif.beer": {
+  "stats": {
+   "malicious": 18,
+   "suspicious": 1,
+   "undetected": 29,
+   "harmless": 43,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:54:54.179053+00:00"
+ },
+ "domain:auth-code-verif.com": {
+  "stats": null,
+  "queried_at": "2026-09-26T10:55:10.614205+00:00"
+ },
+ "domain:cinderlake.cc": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:55:27.005555+00:00"
+ },
+ "domain:visitorflow.icu": {
+  "stats": {
+   "malicious": 14,
+   "suspicious": 1,
+   "undetected": 31,
+   "harmless": 45,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:55:43.467521+00:00"
+ },
+ "domain:visitorflow.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:55:59.898066+00:00"
+ },
+ "domain:authorization-code-cdn.info": {
+  "stats": {
+   "malicious": 17,
+   "suspicious": 2,
+   "undetected": 32,
+   "harmless": 40,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:56:16.329888+00:00"
+ },
+ "domain:authorization-code-cdn.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:56:33.496466+00:00"
+ },
+ "domain:fontawesome-cdn.cfd": {
+  "stats": {
+   "malicious": 14,
+   "suspicious": 3,
+   "undetected": 30,
+   "harmless": 44,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:56:49.910380+00:00"
+ },
+ "domain:fontawesome-cdn.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T10:57:07.127752+00:00"
+ }
+}

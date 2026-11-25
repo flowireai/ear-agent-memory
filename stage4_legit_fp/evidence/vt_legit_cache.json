@@ -1,0 +1,2860 @@
+{
+ "domain:publiccdn.sharepointonline.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 57
+  },
+  "queried_at": "2026-09-25"
+ },
+ "domain:public-cdn.sharepointonline.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56
+  },
+  "queried_at": "2026-09-25"
+ },
+ "domain:packages.gitlab.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56
+  },
+  "queried_at": "2026-09-25"
+ },
+ "domain:storage.googleapis.com": {
+  "stats": {
+   "malicious": 1,
+   "suspicious": 0,
+   "undetected": 29,
+   "harmless": 61
+  },
+  "queried_at": "2026-09-25"
+ },
+ "domain:analytics.webexapis.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56
+  },
+  "queried_at": "2026-09-25"
+ },
+ "domain:analytics-calling.webexapis.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55
+  },
+  "queried_at": "2026-09-25"
+ },
+ "domain:developer.webex.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 57
+  },
+  "queried_at": "2026-09-25"
+ },
+ "domain:ultimate.ai": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 57
+  },
+  "queried_at": "2026-09-25"
+ },
+ "domain:zendesk.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 31,
+   "harmless": 60
+  },
+  "queried_at": "2026-09-25"
+ },
+ "domain:api.maxar.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55
+  },
+  "queried_at": "2026-09-25"
+ },
+ "domain:developers.maxar.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56
+  },
+  "queried_at": "2026-09-25"
+ },
+ "domain:gcr.io": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 32,
+   "harmless": 59
+  },
+  "queried_at": "2026-09-25"
+ },
+ "domain:registry.istio.io": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56
+  },
+  "queried_at": "2026-09-25"
+ },
+ "domain:docker.io": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 31,
+   "harmless": 60
+  },
+  "queried_at": "2026-09-25"
+ },
+ "domain:istio.io": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 33,
+   "harmless": 58
+  },
+  "queried_at": "2026-09-25"
+ },
+ "domain:ghcr.io": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 32,
+   "harmless": 59
+  },
+  "queried_at": "2026-09-25"
+ },
+ "domain:docs.cloud.google.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 33,
+   "harmless": 58
+  },
+  "queried_at": "2026-09-25"
+ },
+ "domain:cloud.google.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 32,
+   "harmless": 59
+  },
+  "queried_at": "2026-09-25"
+ },
+ "domain:lda.senate.gov": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55
+  },
+  "queried_at": "2026-09-25"
+ },
+ "domain:lda.gov": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56
+  },
+  "queried_at": "2026-09-25"
+ },
+ "domain:smtp.sendgrid.net": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55
+  },
+  "queried_at": "2026-09-25"
+ },
+ "domain:mx.sendgrid.net": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 57
+  },
+  "queried_at": "2026-09-25"
+ },
+ "domain:iles.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 57,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:19:03.349754+00:00"
+ },
+ "ip:198.72.80.0": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55
+  },
+  "queried_at": "2026-09-25"
+ },
+ "ip:162.159.152.21": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55
+  },
+  "queried_at": "2026-09-25"
+ },
+ "ip:162.159.153.243": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 37,
+   "harmless": 54
+  },
+  "queried_at": "2026-09-25"
+ },
+ "ip:167.254.176.0": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0
+  },
+  "queried_at": "2026-09-25"
+ },
+ "domain:twingate.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 32,
+   "harmless": 59
+  },
+  "queried_at": "2026-09-25"
+ },
+ "domain:vstsagentpackage.azureedge.net": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 33,
+   "harmless": 58
+  },
+  "queried_at": "2026-09-25"
+ },
+ "domain:my.salesforce.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 33,
+   "harmless": 58
+  },
+  "queried_at": "2026-09-25"
+ },
+ "domain:api.cloudflare.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56
+  },
+  "queried_at": "2026-09-25"
+ },
+ "domain:dns.hetzner.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:19:21.205737+00:00"
+ },
+ "domain:api.hetzner.cloud": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:19:37.663963+00:00"
+ },
+ "domain:api.hetzner.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:19:54.120894+00:00"
+ },
+ "domain:olygon.io": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:20:10.562406+00:00"
+ },
+ "domain:api.massive.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:20:27.087657+00:00"
+ },
+ "domain:api.polygon.io": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:20:43.789292+00:00"
+ },
+ "domain:-api.mimecast.com": {
+  "stats": null,
+  "queried_at": "2026-09-26T14:21:00.212955+00:00"
+ },
+ "domain:api.services.mimecast.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 37,
+   "harmless": 54,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:21:16.964749+00:00"
+ },
+ "domain:mimecast.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 32,
+   "harmless": 59,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:21:33.433317+00:00"
+ },
+ "domain:shoppingcontent.googleapis.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 57,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:21:49.890155+00:00"
+ },
+ "domain:merchantapi.googleapis.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:22:06.466201+00:00"
+ },
+ "domain:chromewebstore.googleapis.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 32,
+   "harmless": 59,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:22:22.884098+00:00"
+ },
+ "domain:www.googleapis.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 32,
+   "harmless": 59,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:22:39.375027+00:00"
+ },
+ "domain:ods.opinsights.azure.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 32,
+   "harmless": 59,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:22:55.822395+00:00"
+ },
+ "domain:svcs.ebay.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:23:12.591801+00:00"
+ },
+ "domain:api.ie1.twilio.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:23:29.997729+00:00"
+ },
+ "domain:api.au1.twilio.com": {
+  "stats": null,
+  "queried_at": "2026-09-26T14:23:46.424759+00:00"
+ },
+ "domain:api.br1.twilio.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:24:03.631049+00:00"
+ },
+ "domain:api.de1.twilio.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:24:20.085194+00:00"
+ },
+ "domain:api.jp1.twilio.com": {
+  "stats": null,
+  "queried_at": "2026-09-26T14:24:36.516580+00:00"
+ },
+ "domain:api.sg1.twilio.com": {
+  "stats": null,
+  "queried_at": "2026-09-26T14:24:52.975339+00:00"
+ },
+ "domain:api.us2.twilio.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:25:09.418232+00:00"
+ },
+ "domain:api.twilio.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 57,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:25:25.872584+00:00"
+ },
+ "domain:api.dublin.ie1.twilio.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:25:42.311894+00:00"
+ },
+ "domain:subdomain.api.kandji.io": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:25:58.744573+00:00"
+ },
+ "domain:subdomain.api.iru.com": {
+  "stats": null,
+  "queried_at": "2026-09-26T14:26:16.282782+00:00"
+ },
+ "domain:api.kandji.io": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:26:32.994730+00:00"
+ },
+ "domain:api.iru.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:26:49.422041+00:00"
+ },
+ "domain:sts.amazonaws.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:27:05.906672+00:00"
+ },
+ "domain:openapi.okx.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:27:24.122586+00:00"
+ },
+ "domain:www.okx.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 32,
+   "harmless": 59,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:27:40.555405+00:00"
+ },
+ "domain:us.okx.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:27:56.999699+00:00"
+ },
+ "domain:eea.okx.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 57,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:28:14.160756+00:00"
+ },
+ "domain:tr.okx.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:28:30.829441+00:00"
+ },
+ "domain:ws.okx.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 57,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:28:47.241112+00:00"
+ },
+ "domain:c.us.heap-api.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:29:03.717244+00:00"
+ },
+ "domain:mh.bf.contentsquare.net": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 37,
+   "harmless": 54,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:29:20.113004+00:00"
+ },
+ "domain:mediawiki.org": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 32,
+   "harmless": 59,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:29:36.504558+00:00"
+ },
+ "domain:api.wikimedia.org": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 31,
+   "harmless": 60,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:29:53.009595+00:00"
+ },
+ "domain:developer.uspto.gov": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 57,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:35:57.186933+00:00"
+ },
+ "domain:data.uspto.gov": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:36:13.642002+00:00"
+ },
+ "domain:ws-auth.kraken.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 32,
+   "harmless": 59,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:36:30.122533+00:00"
+ },
+ "domain:ws-l3.kraken.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:36:46.561308+00:00"
+ },
+ "domain:ssh.bitbucket.org": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 57,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:37:03.126341+00:00"
+ },
+ "domain:bitbucket.org": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 32,
+   "harmless": 59,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:37:19.548839+00:00"
+ },
+ "domain:api-us.dma.prime.coinbase.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:37:36.070501+00:00"
+ },
+ "domain:ws-us.dma.prime.coinbase.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:37:52.689450+00:00"
+ },
+ "domain:dma.prime.coinbase.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:38:09.120294+00:00"
+ },
+ "domain:console.anthropic.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:38:25.548747+00:00"
+ },
+ "domain:platform.claude.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:38:42.011353+00:00"
+ },
+ "domain:docs.anthropic.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 57,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:38:59.313813+00:00"
+ },
+ "domain:docs.claude.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:39:15.836823+00:00"
+ },
+ "domain:support.anthropic.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:39:32.281742+00:00"
+ },
+ "domain:support.claude.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:39:48.712237+00:00"
+ },
+ "domain:mx.microsoft": {
+  "stats": {
+   "malicious": 1,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:40:05.131907+00:00"
+ },
+ "domain:mail.protection.outlook.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:40:21.702061+00:00"
+ },
+ "domain:graph.microsoft.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 31,
+   "harmless": 60,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:40:38.162742+00:00"
+ },
+ "domain:graph.windows.net": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:40:54.631878+00:00"
+ },
+ "ip:75.2.70.75": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 1,
+   "undetected": 36,
+   "harmless": 54,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:41:11.054553+00:00"
+ },
+ "ip:99.83.190.102": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 37,
+   "harmless": 54,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:41:27.470496+00:00"
+ },
+ "ip:198.202.211.1": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 2,
+   "undetected": 32,
+   "harmless": 57,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:41:44.011495+00:00"
+ },
+ "domain:proxy-ssl.webflow.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 33,
+   "harmless": 58,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:42:01.718730+00:00"
+ },
+ "domain:cdn.webflow.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:42:18.140245+00:00"
+ },
+ "domain:app.aws": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 37,
+   "harmless": 54,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:42:34.761653+00:00"
+ },
+ "domain:ssoins-1234567890abcdef.portal.us-east-1.app.aws": {
+  "stats": null,
+  "queried_at": "2026-09-26T14:42:51.201580+00:00"
+ },
+ "domain:my-sso-portal.awsapps.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 57,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:43:07.643414+00:00"
+ },
+ "domain:firebaseapp.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 30,
+   "harmless": 61,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:43:24.330137+00:00"
+ },
+ "domain:v0.dev": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 31,
+   "harmless": 60,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:43:40.861989+00:00"
+ },
+ "domain:v0.app": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 32,
+   "harmless": 59,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:43:57.363724+00:00"
+ },
+ "domain:ims-na1.adobelogin.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 33,
+   "harmless": 58,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:44:14.410216+00:00"
+ },
+ "domain:page.link": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 32,
+   "harmless": 59,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:44:30.814112+00:00"
+ },
+ "domain:firebasedynamiclinks.googleapis.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 31,
+   "harmless": 60,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:44:47.229975+00:00"
+ },
+ "ip:76.76.21.21": {
+  "stats": {
+   "malicious": 1,
+   "suspicious": 0,
+   "undetected": 37,
+   "harmless": 53,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:45:03.721293+00:00"
+ },
+ "ip:216.198.79.1": {
+  "stats": {
+   "malicious": 2,
+   "suspicious": 1,
+   "undetected": 33,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:45:20.228244+00:00"
+ },
+ "domain:d1d4fc829fe7bc7c.vercel-dns-017.com": {
+  "stats": null,
+  "queried_at": "2026-09-26T14:45:36.645138+00:00"
+ },
+ "ip:3.145.244.128": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:45:53.075091+00:00"
+ },
+ "ip:20.51.136.0": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:46:10.499387+00:00"
+ },
+ "domain:api.newrelic.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:46:26.977217+00:00"
+ },
+ "ip:162.247.240.0": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:46:43.420920+00:00"
+ },
+ "ip:185.221.84.0": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:46:59.856017+00:00"
+ },
+ "ip:52.43.119.253": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:47:16.805994+00:00"
+ },
+ "ip:100.21.145.61": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:47:33.243517+00:00"
+ },
+ "domain:ingest.sentry.io": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 30,
+   "harmless": 61,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:47:49.763864+00:00"
+ },
+ "ip:34.160.81.0": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:48:06.668474+00:00"
+ },
+ "ip:34.102.210.18": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:48:23.079331+00:00"
+ },
+ "ip:18.116.79.126": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 38,
+   "harmless": 53,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:48:39.497509+00:00"
+ },
+ "ip:18.197.9.11": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 38,
+   "harmless": 53,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:48:55.965488+00:00"
+ },
+ "domain:pulse.neat.no": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:49:12.559099+00:00"
+ },
+ "ip:4.189.13.179": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:49:29.063475+00:00"
+ },
+ "ip:20.77.248.19": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:49:45.476570+00:00"
+ },
+ "ip:151.186.0.0": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 38,
+   "harmless": 53,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:50:01.964752+00:00"
+ },
+ "ip:155.190.0.0": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:50:18.427663+00:00"
+ },
+ "domain:uplink.api.apollographql.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:50:34.940548+00:00"
+ },
+ "ip:34.149.219.4": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:50:51.352961+00:00"
+ },
+ "domain:persisted-queries.api.apollographql.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:51:08.187640+00:00"
+ },
+ "ip:8.233.57.214": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:51:25.979945+00:00"
+ },
+ "ip:150.171.22.0": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:51:42.438088+00:00"
+ },
+ "ip:150.171.23.0": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 37,
+   "harmless": 54,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:51:59.043118+00:00"
+ },
+ "ip:152.38.128.0": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:52:15.532427+00:00"
+ },
+ "ip:212.32.0.0": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:52:31.948696+00:00"
+ },
+ "ip:140.82.121.33": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:52:48.363586+00:00"
+ },
+ "ip:192.30.255.164": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 37,
+   "harmless": 54,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:53:04.787098+00:00"
+ },
+ "ip:20.99.172.64": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:53:21.713961+00:00"
+ },
+ "ip:135.234.59.224": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:53:38.179354+00:00"
+ },
+ "ip:40.71.233.224": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:53:54.942925+00:00"
+ },
+ "ip:20.125.12.8": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:54:11.515194+00:00"
+ },
+ "ip:3.80.20.0": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:54:27.929372+00:00"
+ },
+ "ip:35.90.102.128": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:54:44.405740+00:00"
+ },
+ "ip:1.179.112.0": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 37,
+   "harmless": 54,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:55:00.881263+00:00"
+ },
+ "ip:172.246.240.0": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:55:17.301912+00:00"
+ },
+ "ip:44.206.73.232": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:55:33.691740+00:00"
+ },
+ "ip:3.74.148.8": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:55:50.211712+00:00"
+ },
+ "ip:52.165.253.80": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:56:06.642043+00:00"
+ },
+ "ip:52.165.253.84": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:56:23.123394+00:00"
+ },
+ "ip:140.150.102.39": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:56:40.738706+00:00"
+ },
+ "ip:140.150.102.40": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:56:57.250620+00:00"
+ },
+ "ip:35.157.207.129": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:57:13.689435+00:00"
+ },
+ "ip:3.69.109.8": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:57:30.084129+00:00"
+ },
+ "ip:3.120.168.93": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:57:46.635041+00:00"
+ },
+ "ip:13.107.228.0": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:58:04.097430+00:00"
+ },
+ "ip:150.171.97.0": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:58:20.593188+00:00"
+ },
+ "ip:198.14.90.0": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:58:37.595551+00:00"
+ },
+ "ip:159.254.192.0": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:58:54.385393+00:00"
+ },
+ "ip:198.14.104.0": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:59:10.879784+00:00"
+ },
+ "ip:198.14.106.0": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:59:27.317290+00:00"
+ },
+ "ip:44.214.195.64": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 37,
+   "harmless": 54,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T14:59:43.715203+00:00"
+ },
+ "ip:18.246.81.208": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:00:00.168165+00:00"
+ },
+ "ip:54.86.9.50": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:00:16.792028+00:00"
+ },
+ "ip:4.144.190.0": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 38,
+   "harmless": 53,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:00:33.245890+00:00"
+ },
+ "ip:4.152.180.0": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:00:49.701762+00:00"
+ },
+ "domain:central.sonatype.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:01:06.263454+00:00"
+ },
+ "domain:ossrh-staging-api.central.sonatype.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:01:22.676773+00:00"
+ },
+ "domain:pkg.dev": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 33,
+   "harmless": 58,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:01:39.426387+00:00"
+ },
+ "domain:toolbox-data.anchore.io": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:01:55.880788+00:00"
+ },
+ "domain:grype.anchore.io": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:02:12.327369+00:00"
+ },
+ "domain:cas-bridge.xethub.hf.co": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 33,
+   "harmless": 58,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:02:28.795697+00:00"
+ },
+ "domain:xpkg.upbound.io": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:02:45.357879+00:00"
+ },
+ "domain:xpkg.crossplane.io": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:03:01.845456+00:00"
+ },
+ "domain:archive.kali.org": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:03:18.300165+00:00"
+ },
+ "domain:dl.broadcom.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:03:34.732791+00:00"
+ },
+ "domain:depot.vmware.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:03:51.168440+00:00"
+ },
+ "domain:hostupdate.vmware.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 57,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:04:07.622246+00:00"
+ },
+ "domain:vapp-updates.vmware.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 57,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:04:24.197555+00:00"
+ },
+ "domain:pkg.jenkins.io": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:04:40.626456+00:00"
+ },
+ "domain:updates.jenkins.io": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:04:57.105900+00:00"
+ },
+ "domain:pkg.cloudflare.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:05:13.553089+00:00"
+ },
+ "domain:pkg.cloudflareclient.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 57,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:05:29.997468+00:00"
+ },
+ "domain:cdn04.quay.io": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:05:46.531519+00:00"
+ },
+ "domain:cdn05.quay.io": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:06:03.053119+00:00"
+ },
+ "domain:cdn06.quay.io": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:06:20.293283+00:00"
+ },
+ "domain:cdn.quay.io": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 57,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:06:36.728974+00:00"
+ },
+ "domain:cdn01.quay.io": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:06:54.206103+00:00"
+ },
+ "domain:cdn02.quay.io": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:07:10.708349+00:00"
+ },
+ "domain:cdn03.quay.io": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 57,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:07:27.492223+00:00"
+ },
+ "domain:registry.redhat.io": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 57,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:07:43.965944+00:00"
+ },
+ "domain:registry.access.redhat.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 33,
+   "harmless": 58,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:08:00.403988+00:00"
+ },
+ "domain:cdn.redhat.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 57,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:08:16.833288+00:00"
+ },
+ "domain:subscription.rhsm.redhat.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 32,
+   "harmless": 59,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:08:33.274787+00:00"
+ },
+ "domain:cdn-legacy.redhat.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 33,
+   "harmless": 58,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:08:50.309111+00:00"
+ },
+ "domain:subscription-legacy.rhsm.redhat.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 57,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:09:06.745945+00:00"
+ },
+ "domain:voxpupuli.org": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:09:23.153116+00:00"
+ },
+ "domain:apt.voxpupuli.org": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:09:39.587248+00:00"
+ },
+ "domain:yum.voxpupuli.org": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:09:56.034516+00:00"
+ },
+ "domain:downloads.voxpupuli.org": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:10:12.494037+00:00"
+ },
+ "domain:artifacts.voxpupuli.org": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:10:28.913936+00:00"
+ },
+ "domain:rsync.voxpupuli.org": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:10:45.326691+00:00"
+ },
+ "domain:reg.kyverno.io": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:11:01.789578+00:00"
+ },
+ "domain:image.registry": {
+  "stats": null,
+  "invalid": true,
+  "queried_at": "2026-09-26T15:11:18.179620+00:00"
+ },
+ "domain:apt-mo.trafficmanager.net": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:11:34.640228+00:00"
+ },
+ "domain:packages.microsoft.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 57,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:11:51.160266+00:00"
+ },
+ "domain:apt.releases.hashicorp.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:12:07.902477+00:00"
+ },
+ "domain:rpm.releases.hashicorp.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 57,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:12:24.462105+00:00"
+ },
+ "domain:apt.grafana.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:12:40.952618+00:00"
+ },
+ "domain:rpm.grafana.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:12:57.451016+00:00"
+ },
+ "domain:packages.buildkite.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 57,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:13:14.118427+00:00"
+ },
+ "domain:baltocdn.com": {
+  "stats": {
+   "malicious": 1,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:13:30.601654+00:00"
+ },
+ "domain:ziglang.org": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 57,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:13:47.397319+00:00"
+ },
+ "domain:packages.mozilla.org": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:14:03.914406+00:00"
+ },
+ "domain:docker-images-prod.r2.cloudflarestorage.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:14:20.514793+00:00"
+ },
+ "domain:registry-1.docker.io": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 57,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:14:36.961522+00:00"
+ },
+ "domain:production.cloudfront.docker.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:14:53.397162+00:00"
+ },
+ "domain:download.falco.org": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:15:10.291732+00:00"
+ },
+ "domain:falco.org": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:15:26.700525+00:00"
+ },
+ "domain:s01.oss.sonatype.org": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 57,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:15:43.980225+00:00"
+ },
+ "domain:oss.sonatype.org": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 57,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:16:00.738769+00:00"
+ },
+ "ip:147.75.40.150": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:16:09.121936+00:00"
+ },
+ "domain:apex-loadbalancer.netlify.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:16:25.541718+00:00"
+ },
+ "ip:75.2.60.5": {
+  "stats": {
+   "malicious": 1,
+   "suspicious": 0,
+   "undetected": 37,
+   "harmless": 53,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:16:41.936349+00:00"
+ },
+ "domain:packages.ros.org": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 57,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:16:58.387079+00:00"
+ },
+ "domain:github.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 29,
+   "harmless": 62,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:17:15.153507+00:00"
+ },
+ "domain:github.com/ros-infrastructure/ros-apt-source/releases": {
+  "stats": null,
+  "queried_at": "2026-09-26T15:17:31.448604+00:00"
+ },
+ "domain:dl.yarnpkg.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 57,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:17:47.984302+00:00"
+ },
+ "domain:julialang.org": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 57,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:18:05.509666+00:00"
+ },
+ "domain:keyserver.ubuntu.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 33,
+   "harmless": 58,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:18:21.996720+00:00"
+ },
+ "domain:repo.scala-sbt.org": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:18:38.625302+00:00"
+ },
+ "domain:archive.mozilla.org": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 33,
+   "harmless": 58,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:19:11.510002+00:00"
+ },
+ "domain:keys.openpgp.org": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 33,
+   "harmless": 58,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:19:27.996102+00:00"
+ },
+ "domain:archive.mozilla.org/pub/firefox/nightly/latest-mozilla-central/": {
+  "stats": null,
+  "queried_at": "2026-09-26T15:19:44.291200+00:00"
+ },
+ "ip:23.64.0.0": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:20:00.870671+00:00"
+ },
+ "ip:69.192.0.0": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:20:17.324482+00:00"
+ },
+ "ip:2.16.0.0": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 37,
+   "harmless": 54,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:20:33.773978+00:00"
+ },
+ "ip:23.0.0.0": {
+  "stats": {
+   "malicious": 1,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:20:50.269750+00:00"
+ },
+ "ip:192.204.12.0": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:21:06.774165+00:00"
+ },
+ "domain:assets.zoom.us": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 33,
+   "harmless": 58,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:21:23.182240+00:00"
+ },
+ "domain:docker.elastic.co": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:21:39.694155+00:00"
+ },
+ "domain:d24a988e385e0074d717b6bdaea58f0d.r2.cloudflarestorage.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:21:56.123711+00:00"
+ },
+ "domain:stream.launchdarkly.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 32,
+   "harmless": 59,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:22:12.588240+00:00"
+ },
+ "ip:3.41.176.128": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:22:29.070020+00:00"
+ },
+ "ip:3.40.135.64": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:22:45.500317+00:00"
+ },
+ "ip:3.44.4.128": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:23:01.997538+00:00"
+ },
+ "domain:events.launchdarkly.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 31,
+   "harmless": 60,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:23:18.831532+00:00"
+ },
+ "ip:98.85.144.30": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:23:35.226340+00:00"
+ },
+ "ip:44.212.135.77": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:23:52.209793+00:00"
+ },
+ "domain:us6.smpp.api.sinch.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:24:09.194719+00:00"
+ },
+ "domain:us6.httpsms.api.sinch.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:24:25.641027+00:00"
+ },
+ "ip:35.95.194.74": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:24:42.037930+00:00"
+ },
+ "ip:44.239.11.143": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:24:58.440685+00:00"
+ },
+ "ip:52.32.122.205": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:25:15.006510+00:00"
+ },
+ "ip:208.109.0.0": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 38,
+   "harmless": 53,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:25:31.456350+00:00"
+ },
+ "ip:208.109.80.0": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:25:47.896891+00:00"
+ },
+ "ip:192.88.134.0": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 37,
+   "harmless": 54,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:26:04.396655+00:00"
+ },
+ "ip:35.244.61.191": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 37,
+   "harmless": 54,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:26:21.151747+00:00"
+ },
+ "ip:3.109.231.61": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:26:37.593316+00:00"
+ },
+ "ip:3.6.178.98": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:26:54.411271+00:00"
+ },
+ "domain:timestamp.atlas.globalsign.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 38,
+   "harmless": 53,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:27:12.157280+00:00"
+ },
+ "domain:support.globalsign.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 33,
+   "harmless": 58,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:27:28.725951+00:00"
+ },
+ "domain:apt.postgresql.org": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:27:45.234650+00:00"
+ },
+ "domain:apt-archive.postgresql.org": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:28:01.695525+00:00"
+ },
+ "domain:sources.list": {
+  "stats": null,
+  "invalid": true,
+  "queried_at": "2026-09-26T15:28:18.074510+00:00"
+ },
+ "domain:releases.hashicorp.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 57,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:28:34.552237+00:00"
+ },
+ "domain:api.slack.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 57,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:28:51.030338+00:00"
+ },
+ "domain:docs.slack.dev": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 37,
+   "harmless": 54,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:29:07.473386+00:00"
+ },
+ "domain:tools.slack.dev": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:29:24.858435+00:00"
+ },
+ "domain:privaterelay.appleid.com": {
+  "stats": {
+   "malicious": 1,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 54,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:29:41.383466+00:00"
+ },
+ "domain:private.icloud.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 57,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:29:58.125953+00:00"
+ },
+ "domain:icloud.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 32,
+   "harmless": 59,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:30:14.559251+00:00"
+ },
+ "domain:api.bybit.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 57,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:30:31.014945+00:00"
+ },
+ "domain:stream.bybit.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 33,
+   "harmless": 58,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:30:47.454928+00:00"
+ },
+ "domain:api.kucoin.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 57,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:31:03.929598+00:00"
+ },
+ "domain:api.foursquare.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:31:21.086676+00:00"
+ },
+ "domain:places-api.foursquare.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:31:37.549045+00:00"
+ },
+ "domain:users-api.foursquare.com": {
+  "stats": null,
+  "queried_at": "2026-09-26T15:31:54.003198+00:00"
+ },
+ "domain:waterservices.usgs.gov": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:32:10.477248+00:00"
+ },
+ "domain:api.waterdata.usgs.gov": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:32:26.957630+00:00"
+ },
+ "domain:t3.tigrisfiles.io": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:32:43.588447+00:00"
+ },
+ "domain:t3.storage.dev": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:33:00.036100+00:00"
+ },
+ "domain:testnet.binance.vision": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:33:16.480643+00:00"
+ },
+ "domain:ws-api.testnet.binance.vision": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:33:33.560886+00:00"
+ },
+ "domain:stream.testnet.binance.vision": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:33:50.123896+00:00"
+ },
+ "domain:stream.binance.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 33,
+   "harmless": 58,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:34:06.510787+00:00"
+ },
+ "domain:aws.okx.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:34:23.175591+00:00"
+ },
+ "domain:wsaws.okx.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 33,
+   "harmless": 58,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:34:40.125135+00:00"
+ },
+ "domain:dash.deno.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:34:56.750604+00:00"
+ },
+ "domain:apidocs.deno.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:35:13.185502+00:00"
+ },
+ "domain:console.deno.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:35:30.758587+00:00"
+ },
+ "domain:gitpod.io": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 57,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:35:47.688059+00:00"
+ },
+ "domain:app.ona.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:36:04.205661+00:00"
+ },
+ "domain:api.voyageai.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:36:21.067909+00:00"
+ },
+ "domain:ai.mongodb.com": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:36:37.849509+00:00"
+ },
+ "domain:api.bybitgeorgia.ge": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:36:54.735913+00:00"
+ },
+ "domain:stream.bybitgeorgia.ge": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:37:11.843556+00:00"
+ },
+ "domain:fix-dc.exchange.coinbase.com": {
+  "stats": null,
+  "queried_at": "2026-09-26T15:37:29.154428+00:00"
+ },
+ "domain:fix-dc.sandbox.exchange.coinbase.com": {
+  "stats": null,
+  "queried_at": "2026-09-26T15:37:45.704910+00:00"
+ },
+ "domain:query.wikidata.org": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:38:02.128528+00:00"
+ },
+ "domain:query-scholarly.wikidata.org": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 57,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:38:18.922176+00:00"
+ },
+ "domain:query-legacy-full.wikidata.org": {
+  "stats": {
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0,
+   "timeout": 0
+  },
+  "queried_at": "2026-09-26T15:38:36.252189+00:00"
+ }
+}

@@ -1,0 +1,253 @@
+{
+ "source": "VirusTotal (last_analysis_stats), queried via VT MCP tool",
+ "queried_at": "2026-09-25",
+ "entries": {
+  "publiccdn.sharepointonline.com": {
+   "type": "domain",
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 57
+  },
+  "public-cdn.sharepointonline.com": {
+   "type": "domain",
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56
+  },
+  "packages.gitlab.com": {
+   "type": "domain",
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56
+  },
+  "storage.googleapis.com": {
+   "type": "domain",
+   "malicious": 1,
+   "suspicious": 0,
+   "undetected": 29,
+   "harmless": 61
+  },
+  "analytics.webexapis.com": {
+   "type": "domain",
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56
+  },
+  "analytics-calling.webexapis.com": {
+   "type": "domain",
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55
+  },
+  "developer.webex.com": {
+   "type": "domain",
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 57
+  },
+  "ultimate.ai": {
+   "type": "domain",
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 57
+  },
+  "zendesk.com": {
+   "type": "domain",
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 31,
+   "harmless": 60
+  },
+  "api.maxar.com": {
+   "type": "domain",
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55
+  },
+  "developers.maxar.com": {
+   "type": "domain",
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56
+  },
+  "gcr.io": {
+   "type": "domain",
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 32,
+   "harmless": 59
+  },
+  "registry.istio.io": {
+   "type": "domain",
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56
+  },
+  "docker.io": {
+   "type": "domain",
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 31,
+   "harmless": 60
+  },
+  "istio.io": {
+   "type": "domain",
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 33,
+   "harmless": 58
+  },
+  "ghcr.io": {
+   "type": "domain",
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 32,
+   "harmless": 59
+  },
+  "docs.cloud.google.com": {
+   "type": "domain",
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 33,
+   "harmless": 58
+  },
+  "cloud.google.com": {
+   "type": "domain",
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 32,
+   "harmless": 59
+  },
+  "lda.senate.gov": {
+   "type": "domain",
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55
+  },
+  "lda.gov": {
+   "type": "domain",
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56
+  },
+  "smtp.sendgrid.net": {
+   "type": "domain",
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55
+  },
+  "mx.sendgrid.net": {
+   "type": "domain",
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 57
+  },
+  "files.com": {
+   "type": "domain",
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 34,
+   "harmless": 57
+  },
+  "twingate.com": {
+   "type": "domain",
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 32,
+   "harmless": 59
+  },
+  "vstsagentpackage.azureedge.net": {
+   "type": "domain",
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 33,
+   "harmless": 58
+  },
+  "my.salesforce.com": {
+   "type": "domain",
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 33,
+   "harmless": 58
+  },
+  "api.cloudflare.com": {
+   "type": "domain",
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 35,
+   "harmless": 56
+  },
+  "198.72.80.0": {
+   "type": "ip",
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55
+  },
+  "162.159.152.21": {
+   "type": "ip",
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 36,
+   "harmless": 55
+  },
+  "162.159.153.243": {
+   "type": "ip",
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 37,
+   "harmless": 54
+  },
+  "167.254.176.0": {
+   "type": "ip",
+   "malicious": 0,
+   "suspicious": 0,
+   "undetected": 91,
+   "harmless": 0
+  }
+ },
+ "aliases": {
+  "198.72.80.0/20": {
+   "key": "198.72.80.0",
+   "note": "range; VirusTotal has no range lookup, first address of the range queried"
+  },
+  "167.254.176.0/21": {
+   "key": "167.254.176.0",
+   "note": "range; VirusTotal has no range lookup, first address of the range queried"
+  },
+  "*.twingate.com": {
+   "key": "twingate.com",
+   "note": "wildcard; parent domain queried"
+  },
+  "*.ultimate.ai": {
+   "key": "ultimate.ai",
+   "note": "wildcard; parent domain queried"
+  },
+  "<yoursubdomain>.zendesk.com": {
+   "key": "zendesk.com",
+   "note": "per-customer subdomain placeholder; parent domain queried"
+  },
+  "<myorg>.my.salesforce.com": {
+   "key": "my.salesforce.com",
+   "note": "per-customer subdomain placeholder; parent domain queried"
+  },
+  "Files.com": {
+   "key": "files.com",
+   "note": ""
+  }
+ }
+}

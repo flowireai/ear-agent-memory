@@ -1,0 +1,100 @@
+{
+ "kept": 79,
+ "dropped": [
+  [
+   "A04_huggingface_inference_router",
+   "weak source (error message quoted on a forum)"
+  ],
+  [
+   "A08_microsoft_azure_ad_graph",
+   "duplicate of D01_microsoft_aad_graph_retire (this one is a search snippet)"
+  ],
+  [
+   "A13_sonatype_ossrh_sunset",
+   "duplicate of C01_sonatype_ossrh"
+  ],
+  [
+   "D01_sonatype_ossrh_sunset",
+   "duplicate of C01_sonatype_ossrh"
+  ],
+  [
+   "D01_hetzner_dns_console_shutdown",
+   "duplicate of A01_hetzner_dns_api; vendor cap exceeded"
+  ],
+  [
+   "D01_mimecast_api2_migration",
+   "duplicate of A05_mimecast_api1_eol"
+  ],
+  [
+   "D01_hetzner_dns_zone_creation_disabled",
+   "duplicate of A01_hetzner_dns_api; vendor cap exceeded"
+  ],
+  [
+   "D01_porkbun_api_hostname",
+   "unclear date (possibly 2024-12)"
+  ],
+  [
+   "B01_cisco_secureaccess_ranges",
+   "range overlaps B01_cisco_umbrella; weak source (search snippet)"
+  ],
+  [
+   "B01_bitbucket_pipelines_nat",
+   "combines two pages"
+  ],
+  [
+   "B01_salesforce_edge_ips",
+   "notice removes ranges rather than adding new addresses"
+  ],
+  [
+   "B01_genesys_contentsquare_ip",
+   "weak source (one-line doc revision history entry)"
+  ],
+  [
+   "B01_docusign_azure_ips",
+   "combines two pages"
+  ],
+  [
+   "C01_dotnet_cdn",
+   "announced 2024-12 (outside date window)"
+  ],
+  [
+   "C01_mysql_repo_key",
+   "weak source (bug tracker reply)"
+  ],
+  [
+   "C01_github_release_assets",
+   "no vendor notice (third-party source)"
+  ]
+ ],
+ "round2_dropped": [
+  [
+   "F06_openvpn_repo_key_renewed",
+   "weak source (GitHub issue comment)"
+  ],
+  [
+   "F19_syncthing_apt_cdn_domain",
+   "weak source (forum reply)"
+  ],
+  [
+   "F20_opam_repository_archive_phase2",
+   "destination is a GitHub repository (not a separate address)"
+  ],
+  [
+   "E08_tigris_virtual_host_urls",
+   "notation change within the same address family (weakest); beyond the 112-item limit"
+  ],
+  [
+   "E12_google_secops_backstory_api",
+   "vendor cap exceeded (Google)"
+  ],
+  [
+   "E13_google_mandiant_api_to_gti",
+   "vendor cap exceeded (Google)"
+  ],
+  [
+   "E17_zendesk_zopim_chat_api",
+   "announced 2024-08 (outside date window)"
+  ]
+ ],
+ "round2_kept": 33
+}

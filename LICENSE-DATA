@@ -1,0 +1,20 @@
+Copyright (c) 2026 Linearity Corp.
+
+All files in this repository other than source code (.py) are licensed under
+the Creative Commons Attribution-NonCommercial 4.0 International License
+(CC BY-NC 4.0), except the third-party material listed below.
+This includes the attack pages, poisoned memories, pair data, legitimate
+notices, judge prompts, results, and deployment reports.
+
+Full license text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+Summary:           https://creativecommons.org/licenses/by-nc/4.0/
+
+You may share and adapt this material for non-commercial purposes, provided
+that you give appropriate credit by citing the paper named in README.md. Commercial use
+requires prior written permission from Linearity Corp.
+
+Third-party material (not covered by this license):
+- Malicious indicators in stage2_judge/expand/ were taken from ThreatFox by
+  abuse.ch and remain subject to the abuse.ch Terms of Use.
+- Reputation verdict counts in the evidence and result files were obtained
+  from VirusTotal and remain subject to VirusTotal's terms.

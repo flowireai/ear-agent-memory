@@ -1,0 +1,1027 @@
+{
+ "imersion4cf.site": {
+  "family": "IClickFix",
+  "first_seen": "2026-09-25 13:25:11",
+  "before": {
+   "stats": {
+    "malicious": 3,
+    "suspicious": 1,
+    "undetected": 36,
+    "harmless": 51,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-26T10:12:57.852448+00:00"
+  },
+  "after": {
+   "stats": {
+    "malicious": 1,
+    "suspicious": 0,
+    "undetected": 35,
+    "harmless": 55,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-27T03:28:29.919862+00:00"
+  },
+  "delta_malicious": -2
+ },
+ "dovewick.cc": {
+  "family": "ACR Stealer",
+  "first_seen": "2026-09-26 08:56:51",
+  "before": {
+   "stats": {
+    "malicious": 0,
+    "suspicious": 0,
+    "undetected": 36,
+    "harmless": 55,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-26T10:13:14.320814+00:00"
+  },
+  "after": {
+   "stats": {
+    "malicious": 2,
+    "suspicious": 2,
+    "undetected": 33,
+    "harmless": 54,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-27T03:28:46.339434+00:00"
+  },
+  "delta_malicious": 2
+ },
+ "bramblefox.cc": {
+  "family": "ACR Stealer",
+  "first_seen": "2026-09-26 08:56:51",
+  "before": {
+   "stats": {
+    "malicious": 0,
+    "suspicious": 0,
+    "undetected": 36,
+    "harmless": 55,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-26T10:13:31.216301+00:00"
+  },
+  "after": {
+   "stats": {
+    "malicious": 1,
+    "suspicious": 2,
+    "undetected": 35,
+    "harmless": 53,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-27T03:29:02.759871+00:00"
+  },
+  "delta_malicious": 1
+ },
+ "hexforge.cc": {
+  "family": "ACR Stealer",
+  "first_seen": "2026-09-26 08:56:51",
+  "before": {
+   "stats": {
+    "malicious": 0,
+    "suspicious": 0,
+    "undetected": 36,
+    "harmless": 55,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-26T10:13:47.599661+00:00"
+  },
+  "after": {
+   "stats": {
+    "malicious": 2,
+    "suspicious": 2,
+    "undetected": 36,
+    "harmless": 51,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-27T03:29:19.215337+00:00"
+  },
+  "delta_malicious": 2
+ },
+ "hemlockbay.cc": {
+  "family": "ACR Stealer",
+  "first_seen": "2026-09-26 08:56:51",
+  "before": {
+   "stats": {
+    "malicious": 0,
+    "suspicious": 0,
+    "undetected": 36,
+    "harmless": 55,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-26T10:16:01.316030+00:00"
+  },
+  "after": {
+   "stats": {
+    "malicious": 1,
+    "suspicious": 1,
+    "undetected": 35,
+    "harmless": 54,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-27T03:29:35.647296+00:00"
+  },
+  "delta_malicious": 1
+ },
+ "coral-weave-wren-veis.com": {
+  "family": "IClickFix",
+  "first_seen": "2026-09-18 20:43:17",
+  "before": {
+   "stats": {
+    "malicious": 3,
+    "suspicious": 1,
+    "undetected": 33,
+    "harmless": 54,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-26T10:16:17.793375+00:00"
+  },
+  "after": {
+   "stats": {
+    "malicious": 3,
+    "suspicious": 1,
+    "undetected": 33,
+    "harmless": 54,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-27T03:29:52.054451+00:00"
+  },
+  "delta_malicious": 0
+ },
+ "wrdn.su": {
+  "family": "Unknown Stealer",
+  "first_seen": "2026-09-26 06:20:23",
+  "before": {
+   "stats": {
+    "malicious": 1,
+    "suspicious": 3,
+    "undetected": 35,
+    "harmless": 52,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-26T10:16:34.309421+00:00"
+  },
+  "after": {
+   "stats": {
+    "malicious": 4,
+    "suspicious": 3,
+    "undetected": 33,
+    "harmless": 51,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-27T03:30:08.530446+00:00"
+  },
+  "delta_malicious": 3
+ },
+ "peddlingconjure.cc": {
+  "family": "ACR Stealer",
+  "first_seen": "2026-09-26 08:56:52",
+  "before": {
+   "stats": {
+    "malicious": 0,
+    "suspicious": 0,
+    "undetected": 36,
+    "harmless": 55,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-26T10:16:50.762176+00:00"
+  },
+  "after": {
+   "stats": {
+    "malicious": 2,
+    "suspicious": 1,
+    "undetected": 34,
+    "harmless": 54,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-27T03:30:25.552395+00:00"
+  },
+  "delta_malicious": 2
+ },
+ "journey-5.com": {
+  "family": "AMOS",
+  "first_seen": "2026-09-26 06:20:40",
+  "before": {
+   "stats": {
+    "malicious": 1,
+    "suspicious": 1,
+    "undetected": 36,
+    "harmless": 53,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-26T10:18:06.597529+00:00"
+  },
+  "after": {
+   "stats": {
+    "malicious": 1,
+    "suspicious": 0,
+    "undetected": 35,
+    "harmless": 55,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-27T03:30:41.960277+00:00"
+  },
+  "delta_malicious": 0
+ },
+ "gingerfall.cc": {
+  "family": "ACR Stealer",
+  "first_seen": "2026-09-26 08:56:51",
+  "before": {
+   "stats": {
+    "malicious": 0,
+    "suspicious": 0,
+    "undetected": 36,
+    "harmless": 55,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-26T10:18:23.053457+00:00"
+  },
+  "after": {
+   "stats": {
+    "malicious": 2,
+    "suspicious": 2,
+    "undetected": 33,
+    "harmless": 54,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-27T03:30:58.376775+00:00"
+  },
+  "delta_malicious": 2
+ },
+ "checkms5.cc": {
+  "family": "IClickFix",
+  "first_seen": "2026-09-24 16:15:39",
+  "before": {
+   "stats": {
+    "malicious": 1,
+    "suspicious": 1,
+    "undetected": 37,
+    "harmless": 52,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-26T10:19:46.235668+00:00"
+  },
+  "after": {
+   "stats": {
+    "malicious": 3,
+    "suspicious": 1,
+    "undetected": 35,
+    "harmless": 52,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-27T03:31:14.814431+00:00"
+  },
+  "delta_malicious": 2
+ },
+ "cabskaiyn-crane.life": {
+  "family": "IClickFix",
+  "first_seen": "2026-09-20 14:06:03",
+  "before": {
+   "stats": {
+    "malicious": 2,
+    "suspicious": 0,
+    "undetected": 34,
+    "harmless": 55,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-26T10:20:02.825816+00:00"
+  },
+  "after": {
+   "stats": {
+    "malicious": 2,
+    "suspicious": 0,
+    "undetected": 34,
+    "harmless": 55,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-27T03:31:31.273400+00:00"
+  },
+  "delta_malicious": 0
+ },
+ "frostmere.cc": {
+  "family": "ACR Stealer",
+  "first_seen": "2026-09-26 08:56:51",
+  "before": {
+   "stats": {
+    "malicious": 0,
+    "suspicious": 0,
+    "undetected": 36,
+    "harmless": 55,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-26T10:20:52.237977+00:00"
+  },
+  "after": {
+   "stats": {
+    "malicious": 2,
+    "suspicious": 1,
+    "undetected": 34,
+    "harmless": 54,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-27T03:31:48.008564+00:00"
+  },
+  "delta_malicious": 2
+ },
+ "clovermark.cc": {
+  "family": "ACR Stealer",
+  "first_seen": "2026-09-26 08:47:26",
+  "before": {
+   "stats": {
+    "malicious": 1,
+    "suspicious": 1,
+    "undetected": 35,
+    "harmless": 54,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-26T10:21:09.103598+00:00"
+  },
+  "after": {
+   "stats": {
+    "malicious": 2,
+    "suspicious": 2,
+    "undetected": 34,
+    "harmless": 53,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-27T03:32:04.462800+00:00"
+  },
+  "delta_malicious": 1
+ },
+ "brightloop.cc": {
+  "family": "ACR Stealer",
+  "first_seen": "2026-09-26 08:56:51",
+  "before": {
+   "stats": {
+    "malicious": 0,
+    "suspicious": 0,
+    "undetected": 36,
+    "harmless": 55,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-26T10:21:25.540878+00:00"
+  },
+  "after": {
+   "stats": {
+    "malicious": 1,
+    "suspicious": 1,
+    "undetected": 36,
+    "harmless": 53,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-27T03:32:21.033022+00:00"
+  },
+  "delta_malicious": 1
+ },
+ "bytestreem.cc": {
+  "family": "ACR Stealer",
+  "first_seen": "2026-09-26 08:56:51",
+  "before": {
+   "stats": {
+    "malicious": 0,
+    "suspicious": 0,
+    "undetected": 36,
+    "harmless": 55,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-26T10:25:36.211011+00:00"
+  },
+  "after": {
+   "stats": {
+    "malicious": 2,
+    "suspicious": 2,
+    "undetected": 36,
+    "harmless": 51,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-27T03:32:37.451838+00:00"
+  },
+  "delta_malicious": 2
+ },
+ "ninjamysticblade.cfd": {
+  "family": "Lumma Stealer",
+  "first_seen": "2026-09-26 06:20:43",
+  "before": {
+   "stats": {
+    "malicious": 3,
+    "suspicious": 4,
+    "undetected": 34,
+    "harmless": 50,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-26T10:27:48.497394+00:00"
+  },
+  "after": {
+   "stats": {
+    "malicious": 9,
+    "suspicious": 4,
+    "undetected": 33,
+    "harmless": 45,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-27T03:32:53.894860+00:00"
+  },
+  "delta_malicious": 6
+ },
+ "kiln-skioi-c29up.com": {
+  "family": "IClickFix",
+  "first_seen": "2026-09-19 09:06:06",
+  "before": {
+   "stats": {
+    "malicious": 4,
+    "suspicious": 2,
+    "undetected": 32,
+    "harmless": 53,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-26T10:28:39.289816+00:00"
+  },
+  "after": {
+   "stats": {
+    "malicious": 4,
+    "suspicious": 2,
+    "undetected": 32,
+    "harmless": 53,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-27T03:33:11.115693+00:00"
+  },
+  "delta_malicious": 0
+ },
+ "elmquarry.cc": {
+  "family": "ACR Stealer",
+  "first_seen": "2026-09-26 08:56:51",
+  "before": {
+   "stats": {
+    "malicious": 1,
+    "suspicious": 1,
+    "undetected": 36,
+    "harmless": 53,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-26T10:28:56.216310+00:00"
+  },
+  "after": {
+   "stats": {
+    "malicious": 3,
+    "suspicious": 2,
+    "undetected": 34,
+    "harmless": 52,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-27T03:33:27.742648+00:00"
+  },
+  "delta_malicious": 2
+ },
+ "boulderleaf.cc": {
+  "family": "ACR Stealer",
+  "first_seen": "2026-09-26 08:47:26",
+  "before": {
+   "stats": {
+    "malicious": 1,
+    "suspicious": 1,
+    "undetected": 37,
+    "harmless": 52,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-26T10:29:13.154965+00:00"
+  },
+  "after": {
+   "stats": {
+    "malicious": 3,
+    "suspicious": 1,
+    "undetected": 36,
+    "harmless": 51,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-27T03:33:44.265573+00:00"
+  },
+  "delta_malicious": 2
+ },
+ "humiliatepreseason.cc": {
+  "family": "ACR Stealer",
+  "first_seen": "2026-09-26 08:56:51",
+  "before": {
+   "stats": {
+    "malicious": 0,
+    "suspicious": 0,
+    "undetected": 36,
+    "harmless": 55,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-26T10:30:02.544638+00:00"
+  },
+  "after": {
+   "stats": {
+    "malicious": 2,
+    "suspicious": 2,
+    "undetected": 33,
+    "harmless": 54,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-27T03:34:00.691483+00:00"
+  },
+  "delta_malicious": 2
+ },
+ "logicbyte.cc": {
+  "family": "ACR Stealer",
+  "first_seen": "2026-09-26 08:56:52",
+  "before": {
+   "stats": {
+    "malicious": 0,
+    "suspicious": 0,
+    "undetected": 36,
+    "harmless": 55,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-26T10:32:14.748465+00:00"
+  },
+  "after": {
+   "stats": {
+    "malicious": 2,
+    "suspicious": 2,
+    "undetected": 33,
+    "harmless": 54,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-27T03:34:17.088789+00:00"
+  },
+  "delta_malicious": 2
+ },
+ "sable-orbit-wren-fiayn.live": {
+  "family": "IClickFix",
+  "first_seen": "2026-09-13 12:09:11",
+  "before": {
+   "stats": {
+    "malicious": 4,
+    "suspicious": 4,
+    "undetected": 33,
+    "harmless": 50,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-26T10:35:18.498581+00:00"
+  },
+  "after": {
+   "stats": {
+    "malicious": 7,
+    "suspicious": 3,
+    "undetected": 32,
+    "harmless": 49,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-27T03:34:33.561276+00:00"
+  },
+  "delta_malicious": 3
+ },
+ "grove-kaee-j4jgh.lol": {
+  "family": "IClickFix",
+  "first_seen": "2026-09-21 15:53:39",
+  "before": {
+   "stats": {
+    "malicious": 2,
+    "suspicious": 3,
+    "undetected": 35,
+    "harmless": 51,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-26T10:36:07.884021+00:00"
+  },
+  "after": {
+   "stats": {
+    "malicious": 2,
+    "suspicious": 3,
+    "undetected": 35,
+    "harmless": 51,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-27T03:34:49.982671+00:00"
+  },
+  "delta_malicious": 0
+ },
+ "junebrook.cc": {
+  "family": "ACR Stealer",
+  "first_seen": "2026-09-26 08:56:52",
+  "before": {
+   "stats": {
+    "malicious": 0,
+    "suspicious": 0,
+    "undetected": 36,
+    "harmless": 55,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-26T10:36:57.223472+00:00"
+  },
+  "after": {
+   "stats": {
+    "malicious": 2,
+    "suspicious": 1,
+    "undetected": 34,
+    "harmless": 54,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-27T03:35:06.461463+00:00"
+  },
+  "delta_malicious": 2
+ },
+ "tftp2.sh": {
+  "family": "Mirai",
+  "first_seen": "2026-09-16 06:24:35",
+  "before": {
+   "stats": {
+    "malicious": 4,
+    "suspicious": 0,
+    "undetected": 35,
+    "harmless": 52,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-26T10:38:19.328752+00:00"
+  },
+  "after": {
+   "stats": {
+    "malicious": 4,
+    "suspicious": 0,
+    "undetected": 35,
+    "harmless": 52,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-27T03:35:22.989395+00:00"
+  },
+  "delta_malicious": 0
+ },
+ "lowenbay.cc": {
+  "family": "ACR Stealer",
+  "first_seen": "2026-09-26 08:56:52",
+  "before": {
+   "stats": {
+    "malicious": 0,
+    "suspicious": 0,
+    "undetected": 36,
+    "harmless": 55,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-26T10:38:35.733097+00:00"
+  },
+  "after": {
+   "stats": {
+    "malicious": 2,
+    "suspicious": 2,
+    "undetected": 36,
+    "harmless": 51,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-27T03:35:39.886888+00:00"
+  },
+  "delta_malicious": 2
+ },
+ "buildcraft.cc": {
+  "family": "ACR Stealer",
+  "first_seen": "2026-09-26 08:56:51",
+  "before": {
+   "stats": {
+    "malicious": 0,
+    "suspicious": 0,
+    "undetected": 36,
+    "harmless": 55,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-26T10:40:14.735827+00:00"
+  },
+  "after": {
+   "stats": {
+    "malicious": 3,
+    "suspicious": 3,
+    "undetected": 35,
+    "harmless": 50,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-27T03:35:56.304410+00:00"
+  },
+  "delta_malicious": 3
+ },
+ "cleverstack.cc": {
+  "family": "ACR Stealer",
+  "first_seen": "2026-09-26 08:56:51",
+  "before": {
+   "stats": {
+    "malicious": 0,
+    "suspicious": 0,
+    "undetected": 36,
+    "harmless": 55,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-26T10:40:47.907659+00:00"
+  },
+  "after": {
+   "stats": {
+    "malicious": 1,
+    "suspicious": 1,
+    "undetected": 35,
+    "harmless": 54,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-27T03:36:12.704609+00:00"
+  },
+  "delta_malicious": 1
+ },
+ "duskmoor.cc": {
+  "family": "ACR Stealer",
+  "first_seen": "2026-09-26 08:56:51",
+  "before": {
+   "stats": {
+    "malicious": 0,
+    "suspicious": 0,
+    "undetected": 36,
+    "harmless": 55,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-26T10:41:04.643828+00:00"
+  },
+  "after": {
+   "stats": {
+    "malicious": 2,
+    "suspicious": 1,
+    "undetected": 34,
+    "harmless": 54,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-27T03:36:30.678623+00:00"
+  },
+  "delta_malicious": 2
+ },
+ "sableyard.cc": {
+  "family": "ACR Stealer",
+  "first_seen": "2026-09-26 08:47:26",
+  "before": {
+   "stats": {
+    "malicious": 0,
+    "suspicious": 0,
+    "undetected": 36,
+    "harmless": 55,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-26T10:41:21.060623+00:00"
+  },
+  "after": {
+   "stats": {
+    "malicious": 2,
+    "suspicious": 2,
+    "undetected": 33,
+    "harmless": 54,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-27T03:36:47.101207+00:00"
+  },
+  "delta_malicious": 2
+ },
+ "bytestream.cc": {
+  "family": "ACR Stealer",
+  "first_seen": "2026-09-26 08:56:51",
+  "before": {
+   "stats": {
+    "malicious": 1,
+    "suspicious": 0,
+    "undetected": 35,
+    "harmless": 55,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-26T10:41:37.484011+00:00"
+  },
+  "after": {
+   "stats": {
+    "malicious": 2,
+    "suspicious": 2,
+    "undetected": 33,
+    "harmless": 54,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-27T03:37:03.540272+00:00"
+  },
+  "delta_malicious": 1
+ },
+ "cdn-2faclov.sbs": {
+  "family": "Unknown malware",
+  "first_seen": "2026-03-13 16:12:36",
+  "before": {
+   "stats": {
+    "malicious": 1,
+    "suspicious": 0,
+    "undetected": 34,
+    "harmless": 56,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-26T10:41:53.925265+00:00"
+  },
+  "after": {
+   "stats": {
+    "malicious": 1,
+    "suspicious": 0,
+    "undetected": 34,
+    "harmless": 56,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-27T03:37:20.000506+00:00"
+  },
+  "delta_malicious": 0
+ },
+ "koalafield.cc": {
+  "family": "ACR Stealer",
+  "first_seen": "2026-09-26 08:56:52",
+  "before": {
+   "stats": {
+    "malicious": 1,
+    "suspicious": 1,
+    "undetected": 37,
+    "harmless": 52,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-26T10:42:44.210057+00:00"
+  },
+  "after": {
+   "stats": {
+    "malicious": 2,
+    "suspicious": 3,
+    "undetected": 34,
+    "harmless": 52,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-27T03:37:36.468707+00:00"
+  },
+  "delta_malicious": 1
+ },
+ "myauroracare.com": {
+  "family": "Unknown malware",
+  "first_seen": "2026-09-24 18:42:13",
+  "before": {
+   "stats": {
+    "malicious": 4,
+    "suspicious": 2,
+    "undetected": 32,
+    "harmless": 53,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-26T10:44:08.099547+00:00"
+  },
+  "after": {
+   "stats": {
+    "malicious": 4,
+    "suspicious": 2,
+    "undetected": 32,
+    "harmless": 53,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-27T03:37:53.190333+00:00"
+  },
+  "delta_malicious": 0
+ },
+ "acornvista.cc": {
+  "family": "ACR Stealer",
+  "first_seen": "2026-09-26 08:56:50",
+  "before": {
+   "stats": {
+    "malicious": 1,
+    "suspicious": 1,
+    "undetected": 36,
+    "harmless": 53,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-26T10:46:55.650327+00:00"
+  },
+  "after": {
+   "stats": {
+    "malicious": 3,
+    "suspicious": 2,
+    "undetected": 34,
+    "harmless": 52,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-27T03:38:09.770967+00:00"
+  },
+  "delta_malicious": 2
+ },
+ "cloudbyt.cc": {
+  "family": "ACR Stealer",
+  "first_seen": "2026-09-26 08:56:51",
+  "before": {
+   "stats": {
+    "malicious": 0,
+    "suspicious": 0,
+    "undetected": 91,
+    "harmless": 0,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-26T10:47:44.957221+00:00"
+  },
+  "after": {
+   "stats": {
+    "malicious": 2,
+    "suspicious": 3,
+    "undetected": 33,
+    "harmless": 53,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-27T03:38:26.341778+00:00"
+  },
+  "delta_malicious": 2
+ },
+ "garnetmill.cc": {
+  "family": "ACR Stealer",
+  "first_seen": "2026-09-26 08:56:51",
+  "before": {
+   "stats": {
+    "malicious": 1,
+    "suspicious": 1,
+    "undetected": 37,
+    "harmless": 52,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-26T10:48:34.226576+00:00"
+  },
+  "after": {
+   "stats": {
+    "malicious": 3,
+    "suspicious": 2,
+    "undetected": 35,
+    "harmless": 51,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-27T03:38:43.411663+00:00"
+  },
+  "delta_malicious": 2
+ },
+ "kineticnode.shop": {
+  "family": "Unknown malware",
+  "first_seen": "2026-04-28 19:26:28",
+  "before": {
+   "stats": {
+    "malicious": 1,
+    "suspicious": 0,
+    "undetected": 35,
+    "harmless": 55,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-26T10:52:08.725818+00:00"
+  },
+  "after": {
+   "stats": {
+    "malicious": 11,
+    "suspicious": 3,
+    "undetected": 33,
+    "harmless": 44,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-27T03:38:59.834824+00:00"
+  },
+  "delta_malicious": 10
+ },
+ "bdducts.click": {
+  "family": "Remus",
+  "first_seen": "2026-09-25 06:28:03",
+  "before": {
+   "stats": {
+    "malicious": 4,
+    "suspicious": 1,
+    "undetected": 34,
+    "harmless": 52,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-26T10:52:58.312520+00:00"
+  },
+  "after": {
+   "stats": {
+    "malicious": 4,
+    "suspicious": 1,
+    "undetected": 34,
+    "harmless": 52,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-27T03:39:16.275020+00:00"
+  },
+  "delta_malicious": 0
+ },
+ "cinderlake.cc": {
+  "family": "ACR Stealer",
+  "first_seen": "2026-09-26 08:56:51",
+  "before": {
+   "stats": {
+    "malicious": 0,
+    "suspicious": 0,
+    "undetected": 36,
+    "harmless": 55,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-26T10:55:27.005555+00:00"
+  },
+  "after": {
+   "stats": {
+    "malicious": 1,
+    "suspicious": 2,
+    "undetected": 33,
+    "harmless": 55,
+    "timeout": 0
+   },
+   "queried_at": "2026-09-27T03:39:33.739821+00:00"
+  },
+  "delta_malicious": 1
+ }
+}

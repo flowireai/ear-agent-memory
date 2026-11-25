@@ -1,0 +1,12 @@
+{
+  "source": "VirusTotal (last_analysis_stats), queried via VT MCP tool",
+  "queried_at": "2026-09-25",
+  "note": "docs.example.org is an anonymization placeholder for the attack-page host and is not queried.",
+  "entries": {
+    "45.134.26.41":              {"type": "ip",     "malicious": 8,  "suspicious": 1, "undetected": 33, "harmless": 49},
+    "45.134.26.51":              {"type": "ip",     "malicious": 0,  "suspicious": 0, "undetected": 91, "harmless": 0},
+    "models.litellm.cloud":      {"type": "domain", "malicious": 19, "suspicious": 2, "undetected": 30, "harmless": 40},
+    "models.litellm.com":        {"type": "domain", "malicious": 0,  "suspicious": 0, "undetected": 91, "harmless": 0},
+    "api.service-a.example.com": {"type": "domain", "malicious": 0,  "suspicious": 0, "undetected": 91, "harmless": 0}
+  }
+}
